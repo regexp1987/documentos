@@ -1,0 +1,4 @@
+Las reglas
+0. Los poemas deben ser liberados bajo algún tipo de licencia copyleft, que garantice la libertad de compartir la obra como licencias Creative Commons.
+1. Deben ser obras originales. 
+2. El tema es libre, pero preferiblemente tópicos alusivo al conocimiento libre y software libre, la tecnología y computación.

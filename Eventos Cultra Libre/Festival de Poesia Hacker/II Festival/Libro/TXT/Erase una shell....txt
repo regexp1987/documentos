@@ -1,0 +1,54 @@
+Erase una shell...
+
+Abriendo el "Compiz" de esta historia; nació dentro de un "MIT" el proyecto;
+"Debian" pasar por debajo de la mesa; pues el código fuente era abierto;
+Un fichero binario ejecutable; en aquella época el negocio del siglo;
+Sin embargo el "Gnome" humano no descansa; es algo difícil mantener un hijo;
+
+Renunciando por sus sueños e ideales; salió "S tal man" de lo prohibido;
+Aquel que sintió que su editor "Emacs"; no podía ser un software privativo;
+Enseguida las leyes "GNU" se manifestaron; usadlo sin problemas si te apetece;
+estudia su forma, modifícalo y adáptalo; pero recuerda distribuirlo en "GPL";
+
+"C" pronunciaron muchos al respecto; los hackers, el gobierno, las
+universidades;
+¿"Bash" a pensar que es un proyecto tonto?; ¿Crees que es muy poco confiable?;
+Fíjate que quizás estás equivocado; las comunidades en el mundo lo saben;
+El programa que en "GCC" compila; cuando tiene error "debugging" le sale;
+
+Pasado el tiempo y la formación; el sistema se sentía incompleto;
+Y, para cubrir ese hueco; con "Hurd" comenzaron el reto;
+Mas sin pensarlo en su mundo; apareció del otro lado del globo;
+Un vikingo con su "kernel"; llenando el espacio del núcleo;
+
+"Linux" le dieron por nombre; aunque su padre de poco ego no quería;
+Pero la fusión "Linus con UNIX"; un llamativo nombre se veía;
+En la época del "HTTP" y "FTP"; hasta un indio "Apache" dejó su tribu;
+Para lanzarse a la conquista; del nuevo "Sistema Operativo";
+
+De vez en cuando lo confunden; según dice el "Ñu" mayor;
+Cuando no lo llaman como es debido; y siempre nos relata el porqué y la razón;
+"GNU/Linux" es el sistema completo; no te equivoques en decirlo mocho;
+Pero cuando la gente comienza a usarlo; muchos se vuelven un "8";
+
+Hoy, empresas y negocios lo han adoptado; proporcionan ganancias
+contra un sistema cerrado;
+Vaya que ha sido bastante blindado; a pesar de tener el código liberado;
+Cuando uses "Twitter, Facebook o Google"; o quizás los queridos
+"Blogger, Drupal y Wordpress";
+Recuerda que en el fondo de todo eso; una manada de Ñu podrás ver;
+
+Si ha sido enredado el tema; usa "Mozilla-Firefox" para navegar;
+Y como todos conectados a "Internet"; la información de todo esto podrás sacar;
+Hasta aquí llega este algoritmo; no quiero aburrirlos demasiado;
+Puede ser que no tenga ritmo; "Copyright Copyleft" este cuento se ha terminado.
+
+
+Copyright (C) 30/03/2010, Félix Ernesto Urbina Campos
+(felix.e.urbina@gmail.com).
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
