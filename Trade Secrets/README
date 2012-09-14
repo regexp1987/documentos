@@ -1,0 +1,8 @@
+Convert OpenDocument (ODF) files to XLIFF localization files.
+URL: http://translate.sourceforge.net/wiki/toolkit/odf2xliff
+
+Crear un archivo XLIFF desde un ODT.
+# odf2xliff Archivo.odt es_Archivo.po
+
+Es necesario para Spell
+aptitude show python-enchant
