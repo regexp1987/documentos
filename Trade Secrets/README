@@ -6,3 +6,5 @@ Crear un archivo XLIFF desde un ODT.
 
 Es necesario para Spell
 aptitude show python-enchant
+
+xliff2odf -t en_TradeSecrets.odt en_es_TradeSecrets.xlf es_TradeSecrets_28082012.odt
