@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.5.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
+ <metadata>
+  <time>2012-12-24T16:48:08Z</time>
+ </metadata>
+ <wpt lon="-66.94844818" lat="10.50970840">
+  <ele>965.282</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>BICIROMA</name>
+  <cmt>20-DIC-12 1:35:44PM</cmt>
+  <desc>20-DIC-12 1:35:44PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059BICIROMA3</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-66.95137787" lat="10.51651001">
+  <ele>972.732</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>CASA</name>
+  <cmt>21-DIC-12 6:01:49PM</cmt>
+  <desc>21-DIC-12 6:01:49PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059CASA4</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-66.89852905" lat="10.50333405">
+  <ele>983.307</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>BICILEON</name>
+  <cmt>21-DIC-12 6:23:47PM</cmt>
+  <desc>21-DIC-12 6:23:47PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059BICILEON2</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.05022430" lat="10.47153568">
+  <ele>1764.37</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>PARADOR</name>
+  <cmt>22-DIC-12 11:32:48AM</cmt>
+  <desc>22-DIC-12 11:32:48AM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059PARADOR8</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.06026459" lat="10.46944332">
+  <ele>1828.54</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>FRUTAS</name>
+  <cmt>22-DIC-12 11:49:10AM</cmt>
+  <desc>22-DIC-12 11:49:10AM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059FRUTAS6</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.07886505" lat="10.46069622">
+  <ele>1918.42</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>BANESCO</name>
+  <cmt>22-DIC-12 12:22:44PM</cmt>
+  <desc>22-DIC-12 12:22:44PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059BANESCO0</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-66.94948578" lat="10.48575020">
+  <ele>927.791</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>DV1</name>
+  <cmt>22-DIC-12 8:07:19AM</cmt>
+  <desc>22-DIC-12 8:07:19AM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059DV15</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-66.98641205" lat="10.48786640">
+  <ele>1286.36</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>PIV</name>
+  <cmt>22-DIC-12 9:21:34AM</cmt>
+  <desc>22-DIC-12 9:21:34AM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059PIV10</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.18215942" lat="10.39063644">
+  <ele>1727.84</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>REPRGESA</name>
+  <cmt>23-DIC-12 11:49:08AM</cmt>
+  <desc>23-DIC-12 11:49:08AM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059REPRGESA12</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.11511993" lat="10.35014153">
+  <ele>1642.53</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>PARADERO</name>
+  <cmt>23-DIC-12 2:06:52PM</cmt>
+  <desc>23-DIC-12 2:06:52PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059PARADERO7</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.08889008" lat="10.33142185">
+  <ele>1412.05</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>BICICLETEI</name>
+  <cmt>23-DIC-12 2:59:22PM</cmt>
+  <desc>23-DIC-12 2:59:22PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059BICICLETEI1</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.04177094" lat="10.34104824">
+  <ele>1182.78</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>PLAGUICA</name>
+  <cmt>23-DIC-12 3:23:21PM</cmt>
+  <desc>23-DIC-12 3:23:21PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059PLAGUICA11</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="-67.03841400" lat="10.34068298">
+  <ele>1177.01</ele>
+  <time>2012-12-24T11:50:59Z</time>
+  <name>PDV3</name>
+  <cmt>23-DIC-12 3:28:23PM</cmt>
+  <desc>23-DIC-12 3:28:23PM</desc>
+  <sym>Flag, Red</sym>
+  <extensions>
+   <ql:key>1356366059PDV39</ql:key>
+  </extensions>
+ </wpt>
+ <extensions/>
+</gpx>
