@@ -1,0 +1,862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-31 09:21-0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.head.meta:-1"
+msgid "Electronic Frontier Foundation"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
+msgid ""
+"https://www.eff.org/deeplinks/2013/01/google-twitters-new-transparency-"
+"report-shows-increase-government-demands-sheds"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
+msgid "article"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.head.meta:-1"
+msgid ""
+"Twitter’s New Transparency Report Shows Increase in Government Demands, "
+"Sheds Light on Copyright Takedowns"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
+msgid "Drupal 7 (http://drupal.org)"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.title:12
+msgid ""
+"Twitter’s New Transparency Report Shows Increase in Government Demands, "
+"Sheds Light on Copyright Takedowns | Electronic Frontier Foundation"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div:58
+msgid "Skip to main content"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div:80
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div:80"
+msgid "Electronic Frontier Foundation"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div:84
+msgid "Defending your rights in the digital world"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.form.div.div.h2:102
+msgid "Search form"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.form.div.div.div.input:103
+msgid ""
+"<label class=\"element-invisible\" for=\"edit-search-block-form--2\">Search "
+"</label> <input title=\"Enter the terms you wish to search for.\" id=\"edit-"
+"search-block-form--2\" name=\"search_block_form\" size=\"15\" maxlength=\"128\" "
+"class=\"form-text\" type=\"text\">"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.h2:124
+msgid "Main menu"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:124
+msgid "Home"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:125
+msgid "About"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:126
+msgid "Our Work"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:127
+msgid "Deeplinks Blog"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:128
+msgid "Press Room"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:129
+msgid "Take Action"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:130
+msgid "Shop"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div:174
+msgid ""
+"January 29, 2013 | By <a href=\"https://www.eff.org/about/staff/trevor-"
+"timm\">Trevor Timm</a>"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:183
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:183"
+msgid ""
+"Twitter’s New Transparency Report Shows Increase in Government Demands, "
+"Sheds Light on Copyright Takedowns"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:192
+msgid ""
+"Yesterday, Twitter <a href=\"http://blog.twitter.com/2013/01/twitter-"
+"transparency-report-v2.html\">released its second semi-annual transparency "
+"report</a>, which details the numbers behind <a "
+"href=\"https://transparency.twitter.com/overview\">every user data demand, "
+"censorship order and copyright takedown request</a> that the micro-blogging "
+"site received in the second half of 2012."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:193
+msgid ""
+"As with <a href=\"https://www.eff.org/deeplinks/2013/01/google-releases-"
+"transparency-report-showing-us-surveillance-requests-33-last-year\">Google’s "
+"transparency report last week</a>, there was a clear increase in government "
+"demands for user data, with the United States leading the way by far. "
+"Censorship requests from around the world also increased. In addition, the "
+"report shed valuable light on the copyright takedown procedure that also "
+"often results in undue censorship."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:199
+msgid ""
+"With their respective reports, Twitter and Google are leaders in a positive "
+"new trend of sharing information that sheds new light on just how government "
+"surveillance and censorship works. It should be a model for other "
+"companies, including Facebook, Skype, and cell phone carriers."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:203
+msgid "Let’s take a deeper look at the information Twitter provided:"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.h3:204
+msgid "Data Demands"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:205
+msgid ""
+"Just like Google admirably did last week, Twitter not <a "
+"href=\"https://transparency.twitter.com/information-requests\">only gives us "
+"stats for how many requests</a> for user data each country makes, but also "
+"breaks down what <i>type</i> of requests they receive <a "
+"href=\"https://transparency.twitter.com/information-requests/US\">from the "
+"United States</a> government. Since Twitter now tells whether information "
+"was obtained by search warrant—which requires probable cause and a judge’s "
+"signature—or by subpoena—which has a much lower threshold and ordinarily no "
+"requirement for a specific sign off by the judge ahead of time—we can tell "
+"what kind of surveillance the government is attempting to conduct on users."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:212
+msgid ""
+"Unsurprisingly, the United States again far and away leads the pack when it "
+"comes to demands for user data, with a vast majority of the demands coming "
+"without a probable cause warrant."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:215
+msgid ""
+"To Twitter’s credit, those government requests have to meet a higher "
+"threshold than is set forth in the U.S.’s antiquated surveillance law. "
+"Twitter officially announced, just as <a "
+"href=\"http://www.theverge.com/2013/1/26/3917684/google-microsoft-yahoo-"
+"facebook-require-warrants-private-content\">Google, Microsoft, Yahoo and "
+"Facebook have in recent days</a><strong></strong>, that they apply Fourth "
+"Amendment protections to all email content, even though Congress <a "
+"href=\"https://www.eff.org/deeplinks/2013/01/112th-congress-finished-its-"
+"term-taking-away-more-your-privacy-worst-possible-way\">has so far refused to "
+"enact</a> legislative protections."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:218
+msgid ""
+"The warrantless surveillance requests cover “metadata,” like who users "
+"email, when, and from what location—information that is still highly "
+"sensitive and deserving of warrant protection."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:221
+msgid ""
+"Twitter also breaks down how many of those requests come with a gag order "
+"(over 20%), which prevents them from even letting users know they’ve been "
+"targeted. In every case possible, Twitter will notify the user of the "
+"demand. Given <a href=\"http://arstechnica.com/tech-policy/2012/06/30000"
+"-secret-surveillance-orders-approved-each-year-judge-estimates/\">secret "
+"surveillance is on the rise in the US</a><strong></strong>, again, this is "
+"important information for the public to have."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.h3:225
+msgid "Censorship Orders"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:226
+msgid ""
+"Removal demands to Twitter by governments around the world also <a "
+"href=\"https://transparency.twitter.com/removal-requests-ttr2\">increased "
+"sharply since six months ago</a>. In the first half of 2012, there were six, "
+"while in the second half there were forty-two. Twitter complied with two of "
+"them—one in Germany and the other in France—after courts in those countries "
+"ruled they must take down the specified content. But Twitter also <a "
+"href=\"https://support.twitter.com/articles/20169222-country-withheld-"
+"content\">announced a policy earlier this year</a> that Twitter would only "
+"block court-ordered content in the countries that made the ruling and would "
+"correspondingly post all censorship demands on the website Chilling Effects "
+"for the public to see."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:234
+msgid ""
+"Interestingly, despite the fact that the First Amendment generally bars "
+"government efforts to take down speech—even unlawful speech like defamation "
+"(such matters are normally dealt with by private lawsuits for money "
+"damages)—the US government requested two items be taken down. Twitter did "
+"not comply with either."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.h3:239
+msgid "Copyright Takedown Requests"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:240
+msgid ""
+"Finally, Twitter <a href=\"https://transparency.twitter.com/copyright-"
+"notices\">details how many copyright takedown notices</a> it received under "
+"the Digital Millennium Copyright Act (DMCA), and as a result, underscores "
+"how the DMCA can be wielded as a censorship tool. DMCA takedown notices "
+"require no official lawsuit or court action of any kind. Instead, copyright "
+"owners can independently notify online service providers and demand that "
+"material be taken down (for a minimum of 14 days) under threat of "
+"jeopardizing the providers’ immunity from liability."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:248
+msgid ""
+"Twitter had over 3000 requests for takedowns, yet <a "
+"href=\"https://transparency.twitter.com/copyright-notices-ttr2\">they only "
+"complied with 53%.</a> That means almost half of all requests were invalid. "
+"It is again to Twitter’s credit that they both publicized this data and have "
+"committed the legal resources necessary to protect their users from invalid "
+"legal requests."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:253
+msgid ""
+"With no strict legal obligation to fight these requests, smaller companies, "
+"or those less dedicated to speech, might simply have complied with them, and "
+"First Amendment protected speech would have been unduly censored."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:257
+msgid ""
+"Here’s hoping Twitter’s transparency report soon becomes an industry "
+"standard."
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:280
+msgid "More DeepLinks Posts Like This"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:290
+msgid "May 2012"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:291
+msgid "Google Releases New Copyright Transparency Report"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:293
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:293"
+msgid "July 2012"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:294
+msgid ""
+"This Week in Transparency: Demands for Cell Data, Drones, and "
+"Declassification"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:296
+msgid "January 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:297
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:297"
+msgid "It's Time for Transparency Reports to Become the New Normal"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:299
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:299"
+msgid "July 2012"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:300
+msgid "Privacy News Roundup: Tracking, Telcos, and Twitter Transparency"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:302
+msgid "February 2012"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:303
+msgid "India’s Downward Spiral"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:321
+msgid "Recent DeepLinks Posts"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:331
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:331"
+msgid "Jan 30, 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:332
+msgid "EFF Beefs Up Legal Team with Two New Staff Attorneys"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:334
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:334"
+msgid "Jan 30, 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:335
+msgid ""
+"Surveillance Camp III: Expansion of the Security Industry in Latin America"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:337
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:337"
+msgid "Jan 29, 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:338
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:338"
+msgid "It's Time for Transparency Reports to Become the New Normal"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:340
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:340"
+msgid "Jan 29, 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:341
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:341"
+msgid ""
+"Twitter’s New Transparency Report Shows Increase in Government Demands, "
+"Sheds Light on Copyright Takedowns"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:343
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:343"
+msgid "Jan 29, 2013"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div:344
+msgid "Facebook Graph Search: Privacy Control You Still Don't Have"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.h2:362
+msgid "Deeplinks Topics"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:372
+msgid "Analog Hole"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:373
+msgid "Anonymity"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:374
+msgid "Anti-Counterfeiting Trade Agreement"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:375
+msgid "Biometrics"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:376
+msgid "Bloggers Under Fire"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:377
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:377"
+msgid "Bloggers' Rights"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:378
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:378"
+msgid "Broadcast Flag"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:379
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:379"
+msgid "Broadcast Flag"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:380
+msgid "Broadcasting Treaty"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:381
+msgid "CALEA"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:382
+msgid "Cell Tracking"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:383
+msgid "Coders' Rights Project"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:384
+msgid "Computer Fraud And Abuse Act Reform"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:385
+msgid "Content Blocking"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:386
+msgid "Copyright Trolls"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:387
+msgid "Council of Europe"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:388
+msgid "Cyber Security Legislation | CISPA, SECURE IT, Cybersecurity Act"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:389
+msgid "CyberSLAPP"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:390
+msgid "Development Agenda"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:391
+msgid "Digital Books"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:392
+msgid "Digital Radio"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:393
+msgid "Digital Video"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:394
+msgid "DMCA"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:395
+msgid "DMCA Rulemaking"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:396
+msgid "Do Not Track"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:397
+msgid "DRM"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:398
+msgid "E-Voting Rights"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:399
+msgid "EFF Europe"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:400
+msgid "EFF Software Projects"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:401
+msgid "Encrypting the Web"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:402
+msgid "Export Controls"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:403
+msgid "FAQs for Lodsys Targets"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:404
+msgid "File Sharing"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:405
+msgid "Free Speech"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:406
+msgid "FTAA"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:407
+msgid "Hollywood v. DVD"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:408
+msgid "How Patents Hinder Innovation (Graphic)"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:409
+msgid "Innovation"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:410
+msgid "Intellectual Property"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:411
+msgid "International"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:412
+msgid "International Privacy Standards"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:413
+msgid "Internet Governance Forum"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:414
+msgid "Locational Privacy"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:415
+msgid "Mandatory Data Retention"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:416
+msgid "Mandatory National IDs and Biometric Databases"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:417
+msgid "Mass Surveillance Technologies"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:418
+msgid "National Security Letters"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:419
+msgid "Net Neutrality"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:420
+msgid "No Downtime for Free Speech"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:421
+msgid "NSA Spying"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:422
+msgid "OECD"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:423
+msgid "Online Behavioral Tracking"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:424
+msgid "Open Wireless"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:425
+msgid "Patent Busting Project"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:426
+msgid "Patent Trolls"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:427
+msgid "Patents"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:428
+msgid "PATRIOT Act"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:429
+msgid "Pen Trap"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:430
+msgid "Policy Analysis"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:431
+msgid "Printers"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:432
+msgid "Privacy"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:433
+msgid "Reading Accessibility"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:434
+msgid "Real ID"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:435
+msgid "RFID"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:436
+msgid "Search Engines"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:437
+msgid "Search Incident to Arrest"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:438
+msgid "Section 230 of the Communications Decency Act"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:439
+msgid "Security"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:440
+msgid "Social Networks"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:441
+msgid "SOPA/PIPA: Internet Blacklist Legislation"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:442
+msgid "State Surveillance & Human Rights"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:443
+msgid "State-Sponsored Malware"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:444
+msgid "Surveillance Drones"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:445
+msgid "Terms Of (Ab)Use"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:446
+msgid "Test Your ISP"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:447
+msgid "The Global Network Initiative"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:448
+msgid "Trans Pacific Partnership Agreement"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:449
+msgid "Transparency"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:450
+msgid "Travel Screening"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:451
+msgid "Trusted Computing"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:452
+msgid "Uncategorized"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:453
+msgid "Video Games"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:454
+msgid "Wikileaks"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li:455
+msgid "WIPO"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div:497
+msgid "Donate to EFF"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.h2:503
+msgid "Stay in Touch"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div:506
+msgid ""
+"<script> jQuery(function(){ // should submit blank zip code if not filled "
+"out jQuery('.newsletter-form #zip') .val('Zip Code (optional)') "
+".focus(function(){ jQuery(this) .val('') .css('color', '#000000'); }); "
+"jQuery('form.newsletter-form').submit(function(){ if(jQuery('.newsletter-"
+"form #zip').val() == 'Zip Code (optional)') jQuery('.newsletter-form "
+"#zip').val(''); return true; }); }); </script> <form "
+"action=\"https://supporters.eff.org/civicrm/profile/create?gid=13\" "
+"method=\"post\" class=\"newsletter-form\"> <input value=\"\" name=\"postURL\" "
+"type=\"hidden\"> <input value=\"/civicrm/profile?reset=1&gid=13\" "
+"name=\"cancelURL\" type=\"hidden\"> <input value=\"Edit:cancel\" "
+"name=\"_qf_default\" type=\"hidden\"> <input value=\"1\" name=\"custom_32\" "
+"type=\"hidden\"> <input id=\"email\" class=\"form-text\" style=\"margin-bottom: "
+"5px;\" onclick=\"this.value = '';this.style.color='#000'\" maxlength=\"255\" "
+"value=\"Email Address\" name=\"email-Primary\" type=\"text\"> <br> <input "
+"value=\"Zip Code (optional)\" id=\"zip\" class=\"form-text\" maxlength=\"40\" name"
+"=\"postal_code-Primary\" type=\"text\"> <input value=\"Sign Up Now\" "
+"name=\"_qf_Edit_next\" class=\"submit\" type=\"submit\"> </form>"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.h2:540
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.h2:540"
+msgid "Follow EFF"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.p:544
+msgid ""
+"Don't leave users in the dark about govt requests for data. Time for "
+"#transparency reports to become the new normal <a "
+"href=\"https://eff.org/r.b8Hq\">https://eff.org/r.b8Hq</a>"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div:545
+msgid "Jan 30 @ 11:16am"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.p:545
+msgid ""
+"Venha hackear com a gente! Nas mesas de Firefox, perto do palco Pitágoras. "
+"<a href=\"https://eff.org/r.b6GW\">https://eff.org/r.b6GW</a> #CPBR6"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div:546
+msgid "Jan 30 @ 11:00am"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:546
+msgid "Twitter"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:547
+msgid "Facebook"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.ul.li:548
+msgid "Identi.ca"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.h2:555
+msgid "Projects"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:559
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.ul.li:559"
+msgid "Bloggers' Rights"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:560
+msgid "Coders' Rights"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:561
+msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.ul.li:561"
+msgid "Follow EFF"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:562
+msgid "Free Speech Weak Links"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:563
+msgid "Global Chokepoints"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:564
+msgid "HTTPS Everywhere"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:565
+msgid "Open Wireless Movement"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:566
+msgid "Patent Busting"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:567
+msgid "Surveillance Self-Defense"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:568
+msgid "Takedown Hall of Shame"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:569
+msgid "Teaching Copyright"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:570
+msgid "Transparency Project"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.ul.li:571
+msgid "Ways To Help"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.ul.li:600
+msgid "Thanks"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.ul.li:601
+msgid "RSS Feeds"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.ul.li:602
+msgid "Copyright Policy"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.ul.li:603
+msgid "Privacy Policy"
+msgstr ""
+
+#: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.ul.li:604
+msgid "Contact EFF"
+msgstr ""
