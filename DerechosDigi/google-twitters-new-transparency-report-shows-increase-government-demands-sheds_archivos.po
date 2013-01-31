@@ -1,20 +1,23 @@
+# Guillermo Lengemann <omerta@unefa-glug.org.ve>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-31 09:21-0430\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-01-31 09:42-0430\n"
+"Last-Translator: Guillermo Lengemann <omerta@unefa-glug.org.ve>\n"
+"Language-Team: Happy Hacking!!\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
 msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.head.meta:-1"
 msgid "Electronic Frontier Foundation"
-msgstr ""
+msgstr "Fundación Fronteras Digitales"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
 msgid ""
@@ -24,7 +27,7 @@ msgstr ""
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
 msgid "article"
-msgstr ""
+msgstr "artículo"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
 msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.head.meta:-1"
@@ -32,6 +35,8 @@ msgid ""
 "Twitter’s New Transparency Report Shows Increase in Government Demands, "
 "Sheds Light on Copyright Takedowns"
 msgstr ""
+"Nuevo informe de transparencia de Twitter muestra incremento en las demandas "
+"del gobierno, revela baja sobre el Copyright"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.head.meta:-1
 msgid "Drupal 7 (http://drupal.org)"
@@ -42,6 +47,9 @@ msgid ""
 "Twitter’s New Transparency Report Shows Increase in Government Demands, "
 "Sheds Light on Copyright Takedowns | Electronic Frontier Foundation"
 msgstr ""
+"Nuevo informe de transparencia de Twitter muestra incremento en las demandas "
+"del gobierno, revela baja sobre el Copyright | Fundación Fronteras "
+"Digitales"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div:58
 msgid "Skip to main content"
@@ -105,6 +113,8 @@ msgid ""
 "January 29, 2013 | By <a href=\"https://www.eff.org/about/staff/trevor-"
 "timm\">Trevor Timm</a>"
 msgstr ""
+"29 de enero de 2013 por <a href=\"https://www.eff.org/about/staff/trevor-"
+"timm\">Trevor Timm</a>. Traducción al Español por Guillermo Lengemann"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:183
 msgctxt "google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html html.body.div.div.div.div.div.div.div.div.div.div.div.div.h2:183"
@@ -112,6 +122,9 @@ msgid ""
 "Twitter’s New Transparency Report Shows Increase in Government Demands, "
 "Sheds Light on Copyright Takedowns"
 msgstr ""
+"Nuevo informe de transparencia de Twitter muestra incremento en las demandas "
+"del gobierno, además, revela la eliminación de cuentas por violaciones "
+"sobre el Copyright"
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:192
 msgid ""
@@ -122,6 +135,14 @@ msgid ""
 "censorship order and copyright takedown request</a> that the micro-blogging "
 "site received in the second half of 2012."
 msgstr ""
+"Ayer, Twitter <a href=\"http://blog.twitter.com/2013/01/twitter-transparency-"
+"report-v2.html\">publicó el segundo informe semestral de transparencia, donde "
+"se detalla el numero de peticiones de datos de usuarios, censura y "
+"solicitud de eliminación por violaciones de Copyright <a "
+"href=\"https://transparency.twitter.com/overview\">peticiones de datos de "
+"usuarios, censura y solicitud de eliminación por violaciones de "
+"Copyright</a> que este sitio de micro-blogging recibió en la segunda mitad "
+"del 2012."
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:193
 msgid ""
@@ -133,6 +154,14 @@ msgid ""
 "report shed valuable light on the copyright takedown procedure that also "
 "often results in undue censorship."
 msgstr ""
+"Como el informe de <a href=\"https://www.eff.org/deeplinks/2013/01/google-"
+"releases-transparency-report-showing-us-surveillance-requests-33-last-"
+"year\">transparencia de Google publicado la semana pasada</a>, se produjo un "
+"claro incremento en las demandas de los gobiernos por los datos de los "
+"usuarios, con Estados Unidos como líder por el momento. Aunque las "
+"peticiones de censura aumentaron en todo el mundo. Además, el informe "
+"muestra el procedimiento de eliminación bajo acusaciones sobre copyright "
+"como medio para la censura injustificada."
 
 #: google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html+html.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.p:199
 msgid ""
