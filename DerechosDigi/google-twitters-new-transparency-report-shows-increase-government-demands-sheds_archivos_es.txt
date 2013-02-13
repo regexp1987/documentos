@@ -1,0 +1,351 @@
+Fundación Fronteras Digitales
+
+https://www.eff.org/deeplinks/2013/01/google-twitters-new-transparency-report-shows-increase-government-demands-sheds
+
+artículo
+
+Nuevo informe de transparencia de Twitter muestra incremento en las demandas del gobierno, revela baja sobre el Copyright
+
+Drupal 7 (http://drupal.org)
+
+Nuevo informe de transparencia de Twitter muestra incremento en las demandas del gobierno, revela baja sobre el Copyright | Fundación Fronteras Digitales
+
+Skip to main content
+
+Electronic Frontier Foundation
+
+Defending your rights in the digital world
+
+Search form
+
+<label class="element-invisible" for="edit-search-block-form--2">Search </label> <input title="Enter the terms you wish to search for." id="edit-search-block-form--2" name="search_block_form" size="15" maxlength="128" class="form-text" type="text">
+
+Main menu
+
+Home
+
+About
+
+Our Work
+
+Deeplinks Blog
+
+Press Room
+
+Take Action
+
+Shop
+
+29 de enero de 2013 por <a href="https://www.eff.org/about/staff/trevor-timm">Trevor Timm</a>. Traducción al Español por Guillermo Lengemann
+
+Nuevo informe de transparencia de Twitter muestra incremento en las demandas del gobierno, además, revela la eliminación de cuentas por violaciones sobre el Copyright
+
+Ayer, Twitter <a href="http://blog.twitter.com/2013/01/twitter-transparency-report-v2.html">publicó el segundo informe semestral de transparencia, donde se detalla el numero de <a href="https://transparency.twitter.com/overview">peticiones de datos de usuarios, censura y solicitud de eliminación por violaciones de Copyright</a> que este sitio de micro-blogging recibió en la segunda mitad del 2012.
+
+Como en el informe de <a href="https://www.eff.org/deeplinks/2013/01/google-releases-transparency-report-showing-us-surveillance-requests-33-last-year">transparencia de Google publicado la semana pasada</a>, se produjo un claro incremento en las demandas de los gobiernos por los datos de los usuarios, con Estados Unidos como líder por el momento. Aunque las peticiones de censura aumentaron en todo el mundo. Además, el informe muestra el procedimiento de eliminación bajo acusaciones sobre copyright como medio para la censura injustificada.
+
+Con sus respectivos reportes, Twitter y Google son los lideres de una nueva tendencia favorable de intercambio de información que arroja nueva luz sobre como funciona la vigilancia y la censura gubernamental. Estas acciones deben ser modelo para otras empresas como Facebook, Skype y las compañías telefónicas.
+
+Veamos en detalles la información ofrecida por Twitter:
+
+Demandas de datos
+
+Al igual que como admirablemente hizo Google la semana pasada, Twitter <a href="https://transparency.twitter.com/information-requests"> no sólo da estadísticas sobre el número de solicitudes</a> para obtener datos de los usuarios por países, también, muestra el <i>tipo</i> de solicitudes que reciben <a href="https://transparency.twitter.com/information-requests/US">desde el gobierno de los Estados Unidos</a>. Twitter ahora indica si la información se obtuvo mediante orden de registro para la que se necesita una causa probable y la firma de un juez, o por orden judicial con requisitos mínimos más bajos y que normalmente no necesita la firma de un juez, podemos decir que tipo de supervisión ejerce el gobierno sobre los usuarios.
+
+Como era de esperar, Estados Unidos lleva la delantera en lo que respecta las solicitudes de datos de los usuarios en donde la mayoría de las solicitudes vienen sin causa probable. 
+
+En favor de Twitter esta que las solicitudes de los gobiernos tienen que cumplir con los requisitos más altos establecidos en la anticuada legislación de vigilancia de Estados Unidos. Twitter anunció oficialmente, igual que en días recientes hizo <a href="http://www.theverge.com/2013/1/26/3917684/google-microsoft-yahoo-facebook-require-warrants-private-content">Google, Microsoft, Yahoo y Facebook</a>, que valiéndose de la cuarta enmienda aplica protecciones sobre contenidos como el correo electrónico, aunque el Congreso <a href="https://www.eff.org/deeplinks/2013/01/112th-congress-finished-its-term-taking-away-more-your-privacy-worst-possible-way"> hasta ahora reusa promulgar</a> protecciones legislativas.
+
+Las solicitudes de vigilancia sin orden judicial cubren la "meatadata", como los correos electrónicos, cuando y desde donde se conecta el usuario información que es muy sensible y merecedora de protección.
+
+Twitter también analizó como muchas de esas peticiones vienen con una orden de silencio (más del 20%), lo que les impide incluso avisar a los usuario que son objeto de investigación. En todos los casos posibles Twitter notificará al usuario sobre la demanda. En vista<a href="http://arstechnica.com/tech-policy/2012/06/30000-secret-surveillance-orders-approved-each-year-judge-estimates/">de que la vigilancia en EE.UU está aumentando cada vez más es importante que el publico tenga esta información.
+
+Ordenes de Censura
+
+Las demandas de eliminación recibidas por Twitter por gobiernos de todo el mundo también han <a href="https://transparency.twitter.com/removal-requests-ttr2">aumentado considerablemente desde los últimos seis meses</a>. En el primer semestre de 2012, había seis, mientras que en la segunda mitad del año había cuarenta y dos. Twitter cumplió con dos de ellos, uno en Alemania y otro en Francia, después que los tribunales de estos países determinarán acabar con el contenido especificado. Pero Twitter también href="https://support.twitter.com/articles/20169222-country-withheld-content"> <a anunció una política a principios de este año</a> en la que Twitter sólo bloquearía por orden judicial contenido en los países donde se dicte sentencia y pondrá todas las demandas de censura en la web Chilling Effects para que el público vea.
+
+Curiosamente, a pesar del hecho de que la Primera Enmienda coloca barreras en los esfuerzos del gobierno para derribar la comunicación e incluso considera ilegal la difamación (estos asuntos normalmente se tratan en demandas privadas por daños y perjuicios) el gobierno de EE.UU. solicitó dos eliminaciones. Twitter no cumplió con ninguno.
+
+Peticiones de eliminación por Copyright 
+
+Finalmente, Twitter <a href="https://transparency.twitter.com/copyright-notices">detalla cuantas notificaciones<a/> de eliminación reciben bajo la Digital Millennium Copyright Act (DMCA), y como resultado de esto se pone en evidencia como la DMCA puede ser usada como una herramienta de censura. Los avisos de eliminación no requieren demanda oficial o acción judicial algún tipo. En cambio, los propietarios del copyright pueden de forma independiente notificar a los proveedores de servicio en línea y demandar que el material sea eliminado (por un mínimo de 14 días) bajo la amenaza de poner en peligro la inmunidad de los proveedores.
+
+Twitter tuvo más de 3000 solicitudes de derribos, aunque href="https://transparency.twitter.com/copyright-notices-ttr2">sólo cumplió con el 53%. </a> Esto significa que casi la mitad de las solicitudes fueron inválida. Nuevamente el crédito para Twitter por la publicación de estos datos comprometiéndose a proteger con los recursos legales necesarios a sus usuarios de las solicitudes legales invalidas.
+
+Sin estricta obligación legal de luchar contra estas solicitudes, pequeñas empresas o empresas menos dedicadas a la comunicación podrían simplemente haber cumplido con las solicitudes y la comunicación que protege la primera enmienda habría sido censurada indebidamente.
+
+La esperanza es que el informe de transparencia de Twitter se convierta en un estándar de la industria.
+
+More DeepLinks Posts Like This
+
+May 2012
+
+Google Releases New Copyright Transparency Report
+
+July 2012
+
+This Week in Transparency: Demands for Cell Data, Drones, and Declassification
+
+January 2013
+
+It's Time for Transparency Reports to Become the New Normal
+
+July 2012
+
+Privacy News Roundup: Tracking, Telcos, and Twitter Transparency
+
+February 2012
+
+India’s Downward Spiral
+
+Recent DeepLinks Posts
+
+Jan 30, 2013
+
+EFF Beefs Up Legal Team with Two New Staff Attorneys
+
+Jan 30, 2013
+
+Surveillance Camp III: Expansion of the Security Industry in Latin America
+
+Jan 29, 2013
+
+It's Time for Transparency Reports to Become the New Normal
+
+Jan 29, 2013
+
+Twitter’s New Transparency Report Shows Increase in Government Demands, Sheds Light on Copyright Takedowns
+
+Jan 29, 2013
+
+Facebook Graph Search: Privacy Control You Still Don't Have
+
+Deeplinks Topics
+
+Analog Hole
+
+Anonymity
+
+Anti-Counterfeiting Trade Agreement
+
+Biometrics
+
+Bloggers Under Fire
+
+Bloggers' Rights
+
+Broadcast Flag
+
+Broadcast Flag
+
+Broadcasting Treaty
+
+CALEA
+
+Cell Tracking
+
+Coders' Rights Project
+
+Computer Fraud And Abuse Act Reform
+
+Content Blocking
+
+Copyright Trolls
+
+Council of Europe
+
+Cyber Security Legislation | CISPA, SECURE IT, Cybersecurity Act
+
+CyberSLAPP
+
+Development Agenda
+
+Digital Books
+
+Digital Radio
+
+Digital Video
+
+DMCA
+
+DMCA Rulemaking
+
+Do Not Track
+
+DRM
+
+E-Voting Rights
+
+EFF Europe
+
+EFF Software Projects
+
+Encrypting the Web
+
+Export Controls
+
+FAQs for Lodsys Targets
+
+File Sharing
+
+Free Speech
+
+FTAA
+
+Hollywood v. DVD
+
+How Patents Hinder Innovation (Graphic)
+
+Innovation
+
+Intellectual Property
+
+International
+
+International Privacy Standards
+
+Internet Governance Forum
+
+Locational Privacy
+
+Mandatory Data Retention
+
+Mandatory National IDs and Biometric Databases
+
+Mass Surveillance Technologies
+
+National Security Letters
+
+Net Neutrality
+
+No Downtime for Free Speech
+
+NSA Spying
+
+OECD
+
+Online Behavioral Tracking
+
+Open Wireless
+
+Patent Busting Project
+
+Patent Trolls
+
+Patents
+
+PATRIOT Act
+
+Pen Trap
+
+Policy Analysis
+
+Printers
+
+Privacy
+
+Reading Accessibility
+
+Real ID
+
+RFID
+
+Search Engines
+
+Search Incident to Arrest
+
+Section 230 of the Communications Decency Act
+
+Security
+
+Social Networks
+
+SOPA/PIPA: Internet Blacklist Legislation
+
+State Surveillance & Human Rights
+
+State-Sponsored Malware
+
+Surveillance Drones
+
+Terms Of (Ab)Use
+
+Test Your ISP
+
+The Global Network Initiative
+
+Trans Pacific Partnership Agreement
+
+Transparency
+
+Travel Screening
+
+Trusted Computing
+
+Uncategorized
+
+Video Games
+
+Wikileaks
+
+WIPO
+
+Donate to EFF
+
+Stay in Touch
+
+<script> jQuery(function(){ // should submit blank zip code if not filled out jQuery('.newsletter-form #zip') .val('Zip Code (optional)') .focus(function(){ jQuery(this) .val('') .css('color', '#000000'); }); jQuery('form.newsletter-form').submit(function(){ if(jQuery('.newsletter-form #zip').val() == 'Zip Code (optional)') jQuery('.newsletter-form #zip').val(''); return true; }); }); </script> <form action="https://supporters.eff.org/civicrm/profile/create?gid=13" method="post" class="newsletter-form"> <input value="" name="postURL" type="hidden"> <input value="/civicrm/profile?reset=1&gid=13" name="cancelURL" type="hidden"> <input value="Edit:cancel" name="_qf_default" type="hidden"> <input value="1" name="custom_32" type="hidden"> <input id="email" class="form-text" style="margin-bottom: 5px;" onclick="this.value = '';this.style.color='#000'" maxlength="255" value="Email Address" name="email-Primary" type="text"> <br> <input value="Zip Code (optional)" id="zip" class="form-text" maxlength="40" name="postal_code-Primary" type="text"> <input value="Sign Up Now" name="_qf_Edit_next" class="submit" type="submit"> </form>
+
+Follow EFF
+
+Don't leave users in the dark about govt requests for data. Time for #transparency reports to become the new normal <a href="https://eff.org/r.b8Hq">https://eff.org/r.b8Hq</a>
+
+Jan 30 @ 11:16am
+
+Venha hackear com a gente! Nas mesas de Firefox, perto do palco Pitágoras. <a href="https://eff.org/r.b6GW">https://eff.org/r.b6GW</a> #CPBR6
+
+Jan 30 @ 11:00am
+
+Twitter
+
+Facebook
+
+Identi.ca
+
+Projects
+
+Bloggers' Rights
+
+Coders' Rights
+
+Follow EFF
+
+Free Speech Weak Links
+
+Global Chokepoints
+
+HTTPS Everywhere
+
+Open Wireless Movement
+
+Patent Busting
+
+Surveillance Self-Defense
+
+Takedown Hall of Shame
+
+Teaching Copyright
+
+Transparency Project
+
+Ways To Help
+
+Thanks
+
+RSS Feeds
+
+Copyright Policy
+
+Privacy Policy
+
+Contact EFF
