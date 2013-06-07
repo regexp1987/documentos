@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 15:31-0430\n"
-"PO-Revision-Date: 2013-06-07 16:05-0430\n"
+"PO-Revision-Date: 2013-06-07 16:25-0430\n"
 "Last-Translator: Lengemann Guillermo <omerta@unefa-glug.org.ve>\n"
 "Language-Team: omerta\n"
 "Language: es\n"
@@ -199,7 +199,7 @@ msgstr ""
 "a su papel mostrando cómo las compañías de vídeo juegos pueden ser "
 "desafiadas como parte del el juego. En los años recientes Ludlow ha escrito "
 "ensayos académicos sobre el hacktivismo y fenómenos relacionados como "
-"Wikileaks. "
+"Wikileaks."
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.h2%3A149
 msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.tbody.tr.td.div.h2:149"
@@ -271,7 +271,7 @@ msgstr ""
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A172
 msgid "6</span> <span class=\"toctext\">Partial bibliography"
-msgstr ""
+msgstr "Obras"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A173
 msgid "7</span> <span class=\"toctext\">See also"
@@ -306,7 +306,7 @@ msgid ""
 "Education</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikipedia."
 "org/w/index.php?title=Peter_Ludlow&action=edit&section=1&editintro=Template:"
 "BLP_editintro\" title=\"Edit section: Education\">edit</a>]"
-msgstr ""
+msgstr "Educación"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A187
 msgid ""
@@ -324,6 +324,10 @@ msgid ""
 "href=\"http://en.wikipedia.org/wiki/Bethel_University_%28Minnesota%29\" "
 "title=\"Bethel University (Minnesota)\">Bethel College</a>."
 msgstr ""
+"Ludlow recibió su PhD en filosofía de la Universidad de Columbia en 1985 "
+"bajo la accesoria de Charles Parsons, pero también estudió con Noam Chomsky "
+"y James Higginbotham en el MIT. Recibió en 1979 su Bachelor of Arts en la "
+"Universidad de Bethel de Minnesota."
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A188
 msgid ""
@@ -727,7 +731,7 @@ msgid ""
 ".wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=15&editint"
 "ro=Template:BLP_editintro\" title=\"Edit section: Partial "
 "bibliography\">edit</a>]"
-msgstr ""
+msgstr "Obras"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A300
 msgid ""
@@ -743,13 +747,15 @@ msgid ""
 "href=\"http://en.wikipedia.org/wiki/Special:BookSources/9780262122191\" "
 "class=\"internal mw-magiclink-isbn\">ISBN 978-0-262-12219-1</a>"
 msgstr ""
+"Semántica, tensión y tiempo: un ensayo sobre la Metafísica del Lenguaje "
+"Natural "
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A302
 msgid ""
 "<i>Crypto Anarchy, Cyberstates, and Pirate Utopias</i> (2001) <a "
 "href=\"http://en.wikipedia.org/wiki/Special:BookSources/0262621517\" "
 "class=\"internal mw-magiclink-isbn\">ISBN 0-262-62151-7</a>"
-msgstr ""
+msgstr "Crypto Anarquía, ciberespacio y utopías piratas (2001)"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A303
 msgid ""
@@ -761,7 +767,7 @@ msgstr ""
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A304
 msgid "<i>Our Future in Virtual Worlds</i> (2010) ASIN: B0044XV80U"
-msgstr ""
+msgstr "Nuestro futuro en los mundos virtuales (2010)"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A305
 msgid ""
