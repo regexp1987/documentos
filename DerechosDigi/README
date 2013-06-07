@@ -6,3 +6,4 @@ html2po -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ W
 
 po2html -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.po -o NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post_es.html -t NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.html
 
+po2txt -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.po -o NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post_es.txt -t NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.html
