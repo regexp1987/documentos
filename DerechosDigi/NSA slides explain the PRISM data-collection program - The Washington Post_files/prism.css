@@ -1,0 +1,63 @@
+/*structure*/
+
+#prism p.body { 
+    font-size: 1.5em;
+}
+
+.section { 
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+
+.annotated-img { 
+    margin-top: 20px;
+    position: relative;
+    _padding-left: 145px;
+    *padding-left: 145px;
+}
+
+.annotated-img img { 
+    margin-left: 145px !important;
+    position: relative;
+}
+
+.annotated-img .annotation { 
+    position: absolute;
+    width: 100px;
+}
+
+
+/*pointers*/
+
+.pointer {border-bottom:1.5px solid #000; position: absolute;}
+.pointer.big { width: 145px;}
+.pointer.small { width: 50px; }
+.pointer.big .small-dot, .pointer.big .small-dot-right {top:-2px;}
+.pointer.small .small-dot,  .pointer.small .small-dot-right {top:-2px;}
+.small-dot {
+  display: inline-block;
+  position:absolute;
+  width:5px;
+  height:5px;
+  border-radius:5px;
+  background-color:#000;
+  left: -2.5px;
+}
+.small-dot-right {
+  display: inline-block;
+  position:absolute;
+  width:5px;
+  height:5px;
+  border-radius:5px;
+  background-color:#000;
+  right: -2.5px;
+}
+
+
+/* padding */
+
+.pad-ten-bottom { 
+    padding-bottom: 10px;
+}
