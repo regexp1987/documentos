@@ -1,1 +1,8 @@
 $ html2po -i google-twitters-new-transparency-report-shows-increase-government-demands-sheds.html -o google-twitters-new-transparency-report-shows-increase-government-demands-sheds_archivos.po
+
+- NSA slides explain the PRISM data-collection program - The Washington Post
+
+html2po -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.html -o NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.po
+
+po2html -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.po -o NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post_es.html -t NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Washington\ Post.html
+
