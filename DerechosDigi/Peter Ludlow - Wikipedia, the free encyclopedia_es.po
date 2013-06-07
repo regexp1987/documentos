@@ -1,0 +1,1392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-07 15:31-0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.head.title%3A4
+msgid "Peter Ludlow - Wikipedia, the free encyclopedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.head.meta%3A-1
+msgid "MediaWiki 1.22wmf4"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.h1%3A83
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.h1:83"
+msgid "Peter Ludlow"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div%3A85
+msgid "From Wikipedia, the free encyclopedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div%3A87
+msgid ""
+"Jump to: <a href=\"#mw-navigation\">navigation</a>, <a "
+"href=\"#p-search\">search</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div%3A90
+msgid ""
+"For the 18th-century British politician, see <a "
+"href=\"http://en.wikipedia.org/wiki/Peter_Ludlow,_1st_Earl_Ludlow\" "
+"title=\"Peter Ludlow, 1st Earl Ludlow\">Peter Ludlow, 1st Earl Ludlow</a>. For "
+"the fictional character from the <i><a "
+"href=\"http://en.wikipedia.org/wiki/Jurassic_Park_%28franchise%29\" "
+"title=\"Jurassic Park (franchise)\">Jurassic Park</a></i> franchise, see <a "
+"href=\"http://en.wikipedia.org/wiki/List_of_characters_in_Jurassic_Park\" "
+"title=\"List of characters in Jurassic Park\" class=\"mw-redirect\">List of "
+"characters in Jurassic Park</a>."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.caption%3A92
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.caption:92"
+msgid "Peter Ludlow"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A97
+msgid "Born"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A98
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.tbody.tr.td:98"
+msgid "January 16, 1957"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A101
+msgid "Era"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A102
+msgid "Contemporary philosophy"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A105
+msgid "School"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A106
+msgid "Analytic philosophy"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A109
+msgid "Main interests"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A110
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Philosophy_of_language\" "
+"title=\"Philosophy of language\">Philosophy of language</a>, <a href=\"http://e"
+"n.wikipedia.org/w/index.php?title=Philosophy_of_linguistics&action=edit&redl"
+"ink=1\" class=\"new\" title=\"Philosophy of linguistics (page does not "
+"exist)\">philosophy of linguistics</a>, <a "
+"href=\"http://en.wikipedia.org/wiki/Epistemology\" "
+"title=\"Epistemology\">epistemology</a>, conceptual issues in virtual worlds"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A113
+msgid "Notable ideas"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A114
+msgid ""
+"implicit comparison classes, the dynamic lexicon, externalism about logical "
+"form, ψ-language, tensism, microlanguages"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.div%3A119
+msgid "Influenced by<a href=\"#\" id=\"NavToggle1\" class=\"NavToggle\">[show]</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.ul.li%3A121
+msgid ""
+"Noam Chomsky</a>, <a href=\"http://en.wikipedia.org/wiki/Charles_Parsons_%"
+"28philosopher%29\" title=\"Charles Parsons (philosopher)\">Charles Parsons</a>, "
+"<a href=\"http://en.wikipedia.org/wiki/James_Higginbotham\" title=\"James "
+"Higginbotham\">James Higginbotham"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.div%3A129
+msgid "Influenced<a href=\"#\" id=\"NavToggle2\" class=\"NavToggle\">[show]</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.ul.li%3A131
+msgid "Jason Stanley"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A137
+msgid ""
+"<b>Peter Ludlow</b> (born January 16, 1957), who also writes under the "
+"pseudonym <b>Urizenus Sklar</b>, is a professor of philosophy at <a "
+"href=\"http://en.wikipedia.org/wiki/Northwestern_University\" "
+"title=\"Northwestern University\">Northwestern University</a>. Before moving "
+"to Northwestern, Ludlow taught at <a "
+"href=\"http://en.wikipedia.org/wiki/University_of_Toronto\" title=\"University "
+"of Toronto\">University of Toronto</a>, the <a "
+"href=\"http://en.wikipedia.org/wiki/University_of_Michigan\" title=\"University "
+"of Michigan\">University of Michigan</a>, and the <a href=\"http://en.wikiped"
+"ia.org/wiki/State_University_of_New_York_at_Stony_Brook\" title=\"State "
+"University of New York at Stony Brook\" class=\"mw-redirect\">State University "
+"of New York at Stony Brook</a>. He has done much interdisciplinary work on "
+"the interface of linguistics and philosophy—in particular on the "
+"philosophical foundations of <a "
+"href=\"http://en.wikipedia.org/wiki/Noam_Chomsky\" title=\"Noam Chomsky\">Noam "
+"Chomsky's</a> theory of <a "
+"href=\"http://en.wikipedia.org/wiki/Generative_linguistics\" title=\"Generative "
+"linguistics\">generative linguistics</a> and on the foundations of the "
+"theory of meaning in linguistic <a "
+"href=\"http://en.wikipedia.org/wiki/Semantics\" "
+"title=\"Semantics\">semantics</a>. He has worked on the application of "
+"analytic philosophy of language to topics in <a "
+"href=\"http://en.wikipedia.org/wiki/Epistemology\" "
+"title=\"Epistemology\">epistemology</a>, <a "
+"href=\"http://en.wikipedia.org/wiki/Metaphysics\" "
+"title=\"Metaphysics\">metaphysics</a>, and <a "
+"href=\"http://en.wikipedia.org/wiki/Logic\" title=\"Logic\">logic</a>, among "
+"other areas."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A140
+msgid ""
+"Ludlow has also established a research program outside of philosophy and "
+"linguistics. Here, his research areas include conceptual issues in <a "
+"href=\"http://en.wikipedia.org/wiki/Cyberspace\" "
+"title=\"Cyberspace\">cyberspace</a>, particularly questions about <a "
+"href=\"http://en.wikipedia.org/wiki/Cyber_law\" title=\"Cyber law\" class=\"mw-"
+"redirect\">cyber-rights</a> and the emergence of laws and governance "
+"structures in and for <a "
+"href=\"http://en.wikipedia.org/wiki/Virtual_communities\" title=\"Virtual "
+"communities\" class=\"mw-redirect\">virtual communities</a>. MTV.com has "
+"described Ludlow as one of the <a rel=\"nofollow\" class=\"external text\" href="
+"\"http://www.mtv.com/news/articles/1534641/20060620/index.jhtml?headlines=tru"
+"e\">10 most influential video game players of all time</a>, in part due to "
+"his role in showing how video game companies can be challenged as part of "
+"the gameplay. In recent years Ludlow has written nonacademic essays on <a "
+"href=\"http://en.wikipedia.org/wiki/Hacktivist\" title=\"Hacktivist\" class=\"mw-"
+"redirect\">hacktivist</a> culture and related phenomena such as <a "
+"href=\"http://en.wikipedia.org/wiki/Wikileaks\" title=\"Wikileaks\" class=\"mw-"
+"redirect\">Wikileaks</a>."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.div.h2%3A149
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.tbody.tr.td.div.h2:149"
+msgid "Contents"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A152
+msgid "1</span> <span class=\"toctext\">Education"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A153
+msgid "2</span> <span class=\"toctext\">Philosophy of generative linguistics"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A154
+msgid "3</span> <span class=\"toctext\">Foundations of semantics"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A155
+msgid ""
+"<a href=\"#Philosophy_of_language\"><span class=\"tocnumber\">4</span> <span "
+"class=\"toctext\">Philosophy of language</span></a> <ul>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A157
+msgid "4.1</span> <span class=\"toctext\">Intentional transitive verbs"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A158
+msgid "4.2</span> <span class=\"toctext\">Interpreted logical forms"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A159
+msgid "4.3</span> <span class=\"toctext\">The dynamic lexicon"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A160
+msgid "4.4</span> <span class=\"toctext\">Implicit comparison classes"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A161
+msgid "4.5</span> <span class=\"toctext\">Contextualism in epistemology"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A162
+msgid "4.6</span> <span class=\"toctext\">Natural logic"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A163
+msgid "4.7</span> <span class=\"toctext\">Presentism and tensism"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A166
+msgid ""
+"<a href=\"#Conceptual_issues_in_cyberculture\"><span "
+"class=\"tocnumber\">5</span> <span class=\"toctext\">Conceptual issues in "
+"cyberculture</span></a> <ul>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A168
+msgid ""
+"5.1</span> <span class=\"toctext\">Criticizing the greek god model of "
+"governance"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A169
+msgid "5.2</span> <span class=\"toctext\">The Alphaville Herald"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A172
+msgid "6</span> <span class=\"toctext\">Partial bibliography"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A173
+msgid "7</span> <span class=\"toctext\">See also"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li%3A174
+msgid "8</span> <span class=\"toctext\">Notes"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A175
+msgid ""
+"<a href=\"#External_links\"><span class=\"tocnumber\">9</span> <span "
+"class=\"toctext\">External links</span></a> <ul>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A177
+msgid "9.1</span> <span class=\"toctext\">Articles about Ludlow"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A178
+msgid "9.2</span> <span class=\"toctext\">Interviews with Ludlow"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.ul.li.ul.li%3A179
+msgid ""
+"9.3</span> <span class=\"toctext\">Selected non-academic essays and articles "
+"by Ludlow"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A186
+msgid ""
+"Education</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikipedia."
+"org/w/index.php?title=Peter_Ludlow&action=edit&section=1&editintro=Template:"
+"BLP_editintro\" title=\"Edit section: Education\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A187
+msgid ""
+"Ludlow received his PhD in philosophy from <a "
+"href=\"http://en.wikipedia.org/wiki/Columbia_University\" title=\"Columbia "
+"University\">Columbia University</a> in 1985 under the direction of <a "
+"href=\"http://en.wikipedia.org/wiki/Charles_Parsons_%28philosopher%29\" "
+"title=\"Charles Parsons (philosopher)\">Charles Parsons</a>, but also studied "
+"with <a href=\"http://en.wikipedia.org/wiki/Noam_Chomsky\" title=\"Noam "
+"Chomsky\">Noam Chomsky</a> and <a "
+"href=\"http://en.wikipedia.org/wiki/James_Higginbotham\" title=\"James "
+"Higginbotham\">James Higginbotham</a> at <a "
+"href=\"http://en.wikipedia.org/wiki/MIT\" title=\"MIT\" class=\"mw-"
+"redirect\">MIT</a>. He received his B.A. in 1979 from <a "
+"href=\"http://en.wikipedia.org/wiki/Bethel_University_%28Minnesota%29\" "
+"title=\"Bethel University (Minnesota)\">Bethel College</a>."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A188
+msgid ""
+"Philosophy of generative linguistics</span> <span class=\"mw-editsection\">[<a "
+"href=\"http://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&se"
+"ction=2&editintro=Template:BLP_editintro\" title=\"Edit section: Philosophy of "
+"generative linguistics\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A189
+msgid ""
+"Ludlow's work in <a "
+"href=\"http://en.wikipedia.org/wiki/Generative_linguistics\" title=\"Generative "
+"linguistics\">generative linguistics</a> has revolved around three basic "
+"themes.The first theme is that generative linguistics at its best is "
+"concerned with <a href=\"http://en.wikipedia.org/wiki/Understanding\" "
+"title=\"Understanding\">understanding</a> and <a "
+"href=\"http://en.wikipedia.org/wiki/Explanation\" "
+"title=\"Explanation\">explanation</a>, and not just with <a "
+"href=\"http://en.wikipedia.org/wiki/Observation\" "
+"title=\"Observation\">observation</a> and <a "
+"href=\"http://en.wikipedia.org/wiki/Data\" title=\"Data\">data</a> gathering. To "
+"this end, generative linguistics is interested in underlying mechanisms "
+"that give rise to language related <a "
+"href=\"http://en.wikipedia.org/wiki/Phenomenon\" "
+"title=\"Phenomenon\">phenomena</a>, and this interest will often trump the "
+"goal of accumulating more data."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A190
+msgid ""
+"The second theme is what he calls the \"Ψ-language hypothesis\". It is the "
+"hypothesis that the underlying mechanisms (the more basic elements) posited "
+"by generative linguists are fundamentally psychological mechanisms and that "
+"generative linguistics is a branch of <a "
+"href=\"http://en.wikipedia.org/wiki/Cognitive_psychology\" title=\"Cognitive "
+"psychology\">cognitive psychology</a>, but against <a "
+"href=\"http://en.wikipedia.org/wiki/Noam_Chomsky\" title=\"Noam Chomsky\">Noam "
+"Chomsky's</a> <a href=\"http://en.wikipedia.org/wiki/I-Language\" "
+"title=\"I-Language\" class=\"mw-redirect\">I-Language</a> hypothesis Ludlow "
+"argues that it doesn’t follow that cognitive psychology must therefore be "
+"interested in <a href=\"http://en.wiktionary.org/wiki/mental_state\" "
+"class=\"extiw\" title=\"wikt:mental state\">mental states</a> individuated "
+"solely by what happens inside the language user's head. It is consistent "
+"with the Ψ-language hypothesis that psychological states (and indeed "
+"syntactic states) are individuated in part by the embedding environment."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A198
+msgid ""
+"The third theme is what Ludlow calls the principle of \"methodological "
+"minimalism\". It is the thesis that best theory criteria like <a "
+"href=\"http://en.wikipedia.org/wiki/Simplicity\" "
+"title=\"Simplicity\">simplicity</a> and <a "
+"href=\"http://en.wikipedia.org/wiki/Formal_rigor\" title=\"Formal rigor\" class"
+"=\"mw-redirect\">formal rigor</a> cannot be given theory neutral definitions, "
+"and thus must really come down to one thing: seek methods that help "
+"linguists to do their jobs with the minimum of cognitive labor."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A203
+msgid ""
+"Foundations of semantics</span> <span class=\"mw-editsection\">[<a href=\"http:"
+"//en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=3&edit"
+"intro=Template:BLP_editintro\" title=\"Edit section: Foundations of "
+"semantics\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A204
+msgid ""
+"Ludlow's earliest work in <a href=\"http://en.wikipedia.org/wiki/Semantics\" "
+"title=\"Semantics\">semantics</a> was an attempt to combine work in the theory "
+"of <a href=\"http://en.wikipedia.org/wiki/Meaning_%28linguistics%29\" "
+"title=\"Meaning (linguistics)\">meaning</a> with contemporary work in "
+"generative linguistics, but using resources that are more <a "
+"href=\"http://en.wikipedia.org/wiki/Parsimony\" title=\"Parsimony\" class=\"mw-"
+"redirect\">parsimonious</a> than those typically used in semantic theory—for "
+"example without using the <a href=\"http://en.wikipedia.org/wiki/Higher-"
+"order_function\" title=\"Higher-order function\">higher-order functions</a> and "
+"<a href=\"http://en.wikipedia.org/wiki/Intensional_logic\" title=\"Intensional "
+"logic\">intensional objects</a> deployed in <a "
+"href=\"http://en.wikipedia.org/wiki/Montague_grammar\" title=\"Montague "
+"grammar\">Montague grammar</a>. The resources were largely limited to "
+"primitives like <a href=\"http://en.wikipedia.org/wiki/Truth\" "
+"title=\"Truth\">truth</a> and <a "
+"href=\"http://en.wikipedia.org/wiki/Reference#Languages_and_linguistics\" "
+"title=\"Reference\">reference</a> to individuals."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A205
+msgid ""
+"His subsequent work has explored ways of formalizing alternative approaches "
+"to semantic theory—including the possibility of <a "
+"href=\"http://en.wikipedia.org/wiki/Formal_system\" title=\"Formal "
+"system\">formalizing</a> a <a "
+"href=\"http://en.wikipedia.org/wiki/Wittgenstein\" title=\"Wittgenstein\" class"
+"=\"mw-redirect\">Wittgensteinian</a> use theory or <a "
+"href=\"http://en.wikipedia.org/wiki/Expressivism\" "
+"title=\"Expressivism\">expressivist</a> semantics for natural language, which "
+"is to say a theory in which the building blocks of a semantic theory are "
+"expressions of <a href=\"http://en.wikipedia.org/wiki/Attitude_%28psychology%"
+"29\" title=\"Attitude (psychology)\">attitudes</a> rather than primitives like "
+"truth and reference.<sup id=\"cite_ref-1\" class=\"reference\"><a "
+"href=\"#cite_note-1\"><span>[</span>1<span>]</span></a></sup>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A206
+msgid ""
+"Philosophy of language</span> <span class=\"mw-editsection\">[<a href=\"http://"
+"en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=4&editin"
+"tro=Template:BLP_editintro\" title=\"Edit section: Philosophy of "
+"language\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A207
+msgid ""
+"Intentional transitive verbs</span> <span class=\"mw-editsection\">[<a href=\"h"
+"ttp://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=5&"
+"editintro=Template:BLP_editintro\" title=\"Edit section: Intentional "
+"transitive verbs\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A208
+msgid ""
+"Ludlow's PhD dissertation defended a proposal dating back to the medieval "
+"logician <a href=\"http://en.wikipedia.org/wiki/Jean_Buridan\" title=\"Jean "
+"Buridan\">Jean Buridan</a>, and revived by <a "
+"href=\"http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine\" title=\"Willard "
+"Van Orman Quine\">W.V.O. Quine</a> in philosophy and <a "
+"href=\"http://en.wikipedia.org/wiki/James_McCawley\" title=\"James McCawley\" "
+"class=\"mw-redirect\">James McCawley</a> in linguistics, according to which "
+"so-called \"intensional transitive verbs\" like \"seek\" and \"want\" are really "
+"<a href=\"http://en.wikipedia.org/wiki/Propositional_attitudes\" "
+"title=\"Propositional attitudes\" class=\"mw-redirect\">propositional "
+"attitudes</a> in disguise. He has subsequently developed these ideas in "
+"collaboration with the linguists Richard Larson and Marcel den Dikken."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A211
+msgid ""
+"Interpreted logical forms</span> <span class=\"mw-editsection\">[<a href=\"http"
+"://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=6&edi"
+"tintro=Template:BLP_editintro\" title=\"Edit section: Interpreted logical "
+"forms\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A212
+msgid ""
+"Ludlow's paper with the semanticist Richard Larson, \"Interpreted Logical "
+"Forms\", advocated a quasi-sententialist view of propositional attitude verbs "
+"(a view that has been criticized by <a "
+"href=\"http://en.wikipedia.org/wiki/Scott_Soames\" title=\"Scott Soames\">Scott "
+"Soames</a> in Chapter 7 of his book <i>Beyond Rigidity</i>). Ludlow's "
+"response to Soames involves the idea that <a "
+"href=\"http://en.wikipedia.org/wiki/Propositional_attitudes\" "
+"title=\"Propositional attitudes\" class=\"mw-redirect\">propositional "
+"attitude</a> reports are not supposed to correspond to some fact about what "
+"is going on inside the agent's head but rather are created by a speaker S, "
+"for the benefit of a hearer H, to help H form some theory about the agent "
+"being reported on. Crucial to this account is the idea that the <a "
+"href=\"http://en.wikipedia.org/wiki/Lexicon\" title=\"Lexicon\">lexicon</a> is "
+"dynamic and that speakers engaged in conversation will negotiate the coinage "
+"of terms \"on the fly\" in constructing attitude reports.<sup id=\"cite_ref-2\" "
+"class=\"reference\"><a "
+"href=\"#cite_note-2\"><span>[</span>2<span>]</span></a></sup>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A221
+msgid ""
+"The dynamic lexicon</span> <span class=\"mw-editsection\">[<a href=\"http://en."
+"wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=7&editintro"
+"=Template:BLP_editintro\" title=\"Edit section: The dynamic lexicon\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A222
+msgid ""
+"Ludlow's work on Interpreted Logical Forms has led to the development of a "
+"view of <a href=\"http://en.wikipedia.org/wiki/Linguistic_meaning\" "
+"title=\"Linguistic meaning\" class=\"mw-redirect\">linguistic meaning</a> "
+"according to which meaning shifts are much more common than intuition "
+"suggests. He rejects the \"common coin\" view of word meaning, and argues that "
+"word meanings are negotiated on the fly as conversational partners build "
+"little microlanguages together. These ideas have subsequently been applied "
+"to controversies in epistemology (see below)."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A228
+msgid ""
+"Implicit comparison classes</span> <span class=\"mw-editsection\">[<a href=\"ht"
+"tp://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=8&e"
+"ditintro=Template:BLP_editintro\" title=\"Edit section: Implicit comparison "
+"classes\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A229
+msgid ""
+"In his article \"Implicit Comparison Classes\"<sup id=\"cite_ref-3\" "
+"class=\"reference\"><a "
+"href=\"#cite_note-3\"><span>[</span>3<span>]</span></a></sup> Ludlow argues "
+"for the <a href=\"http://en.wikipedia.org/wiki/Syntax\" "
+"title=\"Syntax\">syntactic</a> reality of comparison class variables in "
+"adjectival constructions. That is, when one says \"the elephant is small\", "
+"there is an implicit variable for the comparison class (in this case "
+"elephants, as in \"small for an elephant\"), and that variable is represented "
+"by the language faculty. That work was influential in subsequent work on the "
+"context sensitivity of language by <a "
+"href=\"http://en.wikipedia.org/wiki/Jason_Stanley\" title=\"Jason "
+"Stanley\">Jason Stanley</a> and Zoltán Gendler Szabó, and has played a role "
+"in debates about <a href=\"http://en.wikipedia.org/wiki/Contextualism\" "
+"title=\"Contextualism\">contextualism</a> in contemporary <a "
+"href=\"http://en.wikipedia.org/wiki/Epistemology\" "
+"title=\"Epistemology\">epistemology</a>."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A236
+msgid ""
+"Contextualism in epistemology</span> <span class=\"mw-editsection\">[<a href=\""
+"http://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=9"
+"&editintro=Template:BLP_editintro\" title=\"Edit section: Contextualism in "
+"epistemology\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A237
+msgid ""
+"Recent work in <a href=\"http://en.wikipedia.org/wiki/Epistemology\" "
+"title=\"Epistemology\">epistemology</a> has pushed back against <a "
+"href=\"http://en.wikipedia.org/wiki/Skepticism\" "
+"title=\"Skepticism\">skepticism</a> by arguing that knowledge attributions are "
+"context sensitive—our standards of knowledge vary from context to context. "
+"So, while in a philosophy class I may not know I have hands, in other "
+"contexts (for example, chatting in a bar) I do. Ludlow initially argued that "
+"there were implicit argument positions for standards of knowledge.<sup "
+"id=\"cite_ref-4\" class=\"reference\"><a "
+"href=\"#cite_note-4\"><span>[</span>4<span>]</span></a></sup> In response to "
+"criticism from <a href=\"http://en.wikipedia.org/wiki/Jason_Stanley\" "
+"title=\"Jason Stanley\">Jason Stanley</a> in his book \"Knowledge and Practical "
+"Interests\", Ludlow has advanced a doctrine that he calls \"Cheap "
+"Contextualism\".<sup id=\"cite_ref-5\" class=\"reference\"><a "
+"href=\"#cite_note-5\"><span>[</span>5<span>]</span></a></sup> The idea is that "
+"on the dynamic lexicon view, shifts in word meaning are ubiquitous, and the "
+"meaning of the term \"know\" is not an exception. Contextualism in "
+"epistemology is just a consequence of these garden variety shifts in "
+"meaning."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A247
+msgid ""
+"Natural logic</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikipe"
+"dia.org/w/index.php?title=Peter_Ludlow&action=edit&section=10&editintro=Temp"
+"late:BLP_editintro\" title=\"Edit section: Natural logic\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A248
+msgid ""
+"Ludlow has written a series of papers on the <a "
+"href=\"http://en.wikipedia.org/wiki/Logical_form_%28linguistics%29\" "
+"title=\"Logical form (linguistics)\" class=\"mw-redirect\">logical form</a> of "
+"<a href=\"http://en.wikipedia.org/wiki/Determiner_%28linguistics%29\" "
+"title=\"Determiner (linguistics)\" class=\"mw-redirect\">determiners</a> (words "
+"like \"all\", \"some\", and \"no\") and has pursued the idea that their most "
+"interesting properties can be given purely formal or syntactic accounts. The "
+"work borrows from one of the central ideas of <a "
+"href=\"http://en.wikipedia.org/wiki/Medieval_logic\" title=\"Medieval logic\" "
+"class=\"mw-redirect\">medieval logic</a>—the hypothesis that all the key "
+"logical inferences can be reduced down to just two basic inferences that are "
+"sensitive to whether the syntactic environment was <a "
+"href=\"http://en.wikipedia.org/wiki/Dictum_de_omni_et_nullo\" title=\"Dictum de "
+"omni et nullo\">dictum de omni or dictum de nullo</a>—classical notions that "
+"are basically equivalent to the contemporary notions of upward and <a "
+"href=\"http://en.wikipedia.org/wiki/Downward_entailing\" title=\"Downward "
+"entailing\">downward entailing</a> environments. To explain, in an upward "
+"entailing (de omni) environment a superset can be substituted for any set. "
+"In a downward entailing environment a subset may be substituted for a set. "
+"Ludlow revives the medieval project by combining it with the descriptive "
+"tools of contemporary Chomskyan linguistics and recent technical work in <a "
+"href=\"http://en.wikipedia.org/wiki/Formal_logic\" title=\"Formal logic\" class"
+"=\"mw-redirect\">formal logic</a>."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A260
+msgid ""
+"Presentism and tensism</span> <span class=\"mw-editsection\">[<a href=\"http://"
+"en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=11&editi"
+"ntro=Template:BLP_editintro\" title=\"Edit section: Presentism and "
+"tensism\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A261
+msgid ""
+"Ludlow's first book, <i>Semantics, Tense, and Time</i>, was devoted to "
+"arguing that <a href=\"http://en.wikipedia.org/wiki/Presentism\" "
+"title=\"Presentism\">presentism</a>, a metaphysical thesis that denies the "
+"reality of past and future events, is consistent with the intuitive truth of "
+"much of our tensed discourse. More recently, he has argued that while tense "
+"is an ineliminable feature of reality, the resulting position (called "
+"\"tensism\") does not force us to be presentists."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A267
+msgid ""
+"Conceptual issues in cyberculture</span> <span class=\"mw-editsection\">[<a hr"
+"ef=\"http://en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&secti"
+"on=12&editintro=Template:BLP_editintro\" title=\"Edit section: Conceptual "
+"issues in cyberculture\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A268
+msgid ""
+"Criticizing the greek god model of governance</span> <span class=\"mw-"
+"editsection\">[<a href=\"http://en.wikipedia.org/w/index.php?title=Peter_Ludlo"
+"w&action=edit&section=13&editintro=Template:BLP_editintro\" title=\"Edit "
+"section: Criticizing the greek god model of governance\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A269
+msgid ""
+"Most of Ludlow's work on cyberculture has centered on the question of "
+"governance for virtual worlds and he has been critical of what he calls the "
+"\"greek god model\" of virtual world governance. This is a model in which "
+"virtual world platform owners do not have coherent systematic policies to "
+"deal with in world disputes, but rather reach in and dabble as suits their "
+"dispositions at the moment. In an e-book entitled \"Our Future in Virtual "
+"Worlds\" Ludlow argues that as our lives continue to move online, the Greek "
+"god model becomes ever more dangerous. This critique has been extended to "
+"social networking platforms more generally.<sup id=\"cite_ref-6\" "
+"class=\"reference\"><a "
+"href=\"#cite_note-6\"><span>[</span>6<span>]</span></a></sup>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A279
+msgid ""
+"The Alphaville Herald</span> <span class=\"mw-editsection\">[<a href=\"http://e"
+"n.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=14&editin"
+"tro=Template:BLP_editintro\" title=\"Edit section: The Alphaville "
+"Herald\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A280
+msgid ""
+"Ludlow founded <i>The Alphaville Herald</i> on October 23, 2003. It was the "
+"unofficial newspaper for the Alphaville server of <i><a "
+"href=\"http://en.wikipedia.org/wiki/The_Sims_Online\" title=\"The Sims "
+"Online\">The Sims Online</a></i>, where Ludlow used the avatar Urizenus "
+"Sklar. Its stories uncovered in-game scams and cyber-prostitution, and "
+"highlighted <a href=\"http://en.wikipedia.org/wiki/Electronic_Arts\" "
+"title=\"Electronic Arts\">Electronic Arts</a>' indifference to the social "
+"problems in their game."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A281
+msgid ""
+"In a famous controversy, reported in the <a "
+"href=\"http://en.wikipedia.org/wiki/New_York_Times\" title=\"New York Times\" "
+"class=\"mw-redirect\">New York Times</a><sup id=\"cite_ref-7\" "
+"class=\"reference\"><a "
+"href=\"#cite_note-7\"><span>[</span>7<span>]</span></a></sup> and elsewhere "
+"(including law journals<sup id=\"cite_ref-8\" class=\"reference\"><a "
+"href=\"#cite_note-8\"><span>[</span>8<span>]</span></a></sup>), Ludlow was "
+"kicked out of The Sims Online after some blistering editorials against "
+"Electronic Arts Corporation for their failures at managing and policing the "
+"gamespace. The newspaper subsequently migrated to another virtual world, <a "
+"href=\"http://en.wikipedia.org/wiki/Second_Life\" title=\"Second Life\">Second "
+"Life</a>, in June 2004."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A286
+msgid ""
+"The Herald has been written about in <a "
+"href=\"http://en.wikipedia.org/wiki/Wired_%28magazine%29\" title=\"Wired "
+"(magazine)\">Wired</a><sup id=\"cite_ref-9\" class=\"reference\"><a "
+"href=\"#cite_note-9\"><span>[</span>9<span>]</span></a></sup> and the <a "
+"href=\"http://en.wikipedia.org/wiki/Columbia_Journalism_Review\" "
+"title=\"Columbia Journalism Review\">Columbia Journalism Review</a>.<sup "
+"id=\"cite_ref-10\" class=\"reference\"><a "
+"href=\"#cite_note-10\"><span>[</span>10<span>]</span></a></sup> Ludlow (in the "
+"voice of Urizenus Sklar) is currently a Contributing Editor, while the "
+"avatar Pixeleen Mistral, revealed by Ludlow in 2010 to be Internet pioneer "
+"<a href=\"http://en.wikipedia.org/wiki/Mark_P._McCahill\" title=\"Mark P. "
+"McCahill\">Mark P. McCahill</a>, is the newspaper's Managing Editor."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A290
+msgid ""
+"Ludlow and Mark Wallace wrote a book about The Herald and its exploits "
+"called \"The Second Life Herald: the Virtual Tabloid that Witnessed the Dawn "
+"of the Metaverse\" (MIT Press, 2007). The book received the American "
+"Association of Publishers, Professional/Scholarly Publishing award for “Best "
+"Book in Media and Cultural Studies, 2007”, was named a <a href=\"http://en.w"
+"ikipedia.org/wiki/Choice:_Current_Reviews_for_Academic_Libraries\" "
+"title=\"Choice: Current Reviews for Academic Libraries\">Choice</a> "
+"“Outstanding Academic Title, 2008”, and <a "
+"href=\"http://en.wikipedia.org/wiki/Library_Journal\" title=\"Library "
+"Journal\">Library Journal</a> honored it as a “Top Sci-Tech Book, 2007,” "
+"(they ranked it one of top 39 science books of 2007 and top book in category "
+"of Computer Science)."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A298
+msgid ""
+"Partial bibliography</span> <span class=\"mw-editsection\">[<a href=\"http://en"
+".wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=15&editint"
+"ro=Template:BLP_editintro\" title=\"Edit section: Partial "
+"bibliography\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A300
+msgid ""
+"<i>High Noon on the Electronic Frontier</i> (1996) <a "
+"href=\"http://en.wikipedia.org/wiki/Special:BookSources/0262621037\" "
+"class=\"internal mw-magiclink-isbn\">ISBN 0-262-62103-7</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A301
+msgid ""
+"<i>Semantics, Tense, and Time: an Essay in the Metaphysics of Natural "
+"Language</i> (1999) <a "
+"href=\"http://en.wikipedia.org/wiki/Special:BookSources/9780262122191\" "
+"class=\"internal mw-magiclink-isbn\">ISBN 978-0-262-12219-1</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A302
+msgid ""
+"<i>Crypto Anarchy, Cyberstates, and Pirate Utopias</i> (2001) <a "
+"href=\"http://en.wikipedia.org/wiki/Special:BookSources/0262621517\" "
+"class=\"internal mw-magiclink-isbn\">ISBN 0-262-62151-7</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A303
+msgid ""
+"<i>The Second Life Herald: The Virtual Tabloid that Witnessed the Dawn of "
+"the Metaverse</i> (2009) <a "
+"href=\"http://en.wikipedia.org/wiki/Special:BookSources/9780262513227\" "
+"class=\"internal mw-magiclink-isbn\">ISBN 978-0-262-51322-7</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A304
+msgid "<i>Our Future in Virtual Worlds</i> (2010) ASIN: B0044XV80U"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A305
+msgid ""
+"<i>The Philosophy of Generative Linguistics</i> (2010) <a "
+"href=\"http://en.wikipedia.org/wiki/Special:BookSources/9780199258536\" "
+"class=\"internal mw-magiclink-isbn\">ISBN 978-0-19-925853-6</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A307
+msgid ""
+"See also</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikipedia.o"
+"rg/w/index.php?title=Peter_Ludlow&action=edit&section=16&editintro=Template:"
+"BLP_editintro\" title=\"Edit section: See also\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A309
+msgid "The Well"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A310
+msgid "Pirate utopia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A312
+msgid ""
+"Notes</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikipedia.org/"
+"w/index.php?title=Peter_Ludlow&action=edit&section=17&editintro=Template:BLP"
+"_editintro\" title=\"Edit section: Notes\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A315
+msgid ""
+"<b><a href=\"#cite_ref-1\">^</a></b></span> <span class=\"reference-text\">See "
+"chapter 5 of his <i>The Philosophy of Generative Linguistics</i>, Oxford "
+"University Press, 2011."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A316
+msgid ""
+"<b><a href=\"#cite_ref-2\">^</a></b></span> <span class=\"reference-text\">A "
+"version of this account can be found in Ludlow's paper \"Interpreted Logical "
+"Forms, Belief Attribution, and the Dynamic Lexicon,\" in K.M. Jaszczolt (ed.) "
+"\"Pragmatics of Propositional Attitude Reports.\" Elsevier Science, Ltd, "
+"2000."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A321
+msgid ""
+"<b><a href=\"#cite_ref-3\">^</a></b></span> <span class=\"reference-"
+"text\">\"Implicit Comparison Classes,\" Linguistics and Philoso­phy 12, #4, "
+"1989, pp. 521-533."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A322
+msgid ""
+"<b><a href=\"#cite_ref-4\">^</a></b></span> <span class=\"reference-"
+"text\">\"Contextualism and the New Linguistic Turn In Epistemology\" in G. "
+"Preyer and G. Peter (eds.) Contextualism in Philosophy. Oxford: Oxford "
+"University Press, 2005."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A326
+msgid ""
+"<b><a href=\"#cite_ref-5\">^</a></b></span> <span class=\"reference-"
+"text\">“Cheap Contextualism,” Nous. Philosophical Issues 16: Annual "
+"Supplement, Sosa and Villanueva (eds.), 2007."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A327
+msgid ""
+"<b><a href=\"#cite_ref-6\">^</a></b></span> <span class=\"reference-"
+"text\">\"Monarchia Social Network.\" Interviewed by Alessandro Longo in "
+"L'Espresso, Oct. 10, 2010. (In Italian)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A328
+msgid ""
+"<b><a href=\"#cite_ref-7\">^</a></b></span> <span class=\"reference-text\"><a "
+"rel=\"nofollow\" class=\"external free\" href=\"http://www.nytimes.com/2004/01/15"
+"/technology/15SIMS.html?ex=1389502800&en=b10316fe8b64b250&ei=5007&partner=US"
+"ERLAND\">http://www.nytimes.com/2004/01/15/technology/15SIMS.html?ex=13895028"
+"00&en=b10316fe8b64b250&ei=5007&partner=USERLAND</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A329
+msgid ""
+"<b><a href=\"#cite_ref-8\">^</a></b></span> <span class=\"reference-text\"><a "
+"rel=\"nofollow\" class=\"external free\" href=\"http://www.yale.edu/lawweb/jbalki"
+"n/articles/virtual_liberty1.pdf\">http://www.yale.edu/lawweb/jbalkin/articles"
+"/virtual_liberty1.pdf</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A330
+msgid ""
+"<b><a href=\"#cite_ref-9\">^</a></b></span> <span class=\"reference-text\"><a "
+"rel=\"nofollow\" class=\"external free\" href=\"http://www.wired.com/wired/archiv"
+"e/14.04/second.html\">http://www.wired.com/wired/archive/14.04/second.html</a"
+">"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ol.li%3A331
+msgid ""
+"<b><a href=\"#cite_ref-10\">^</a></b></span> <span class=\"reference-text\"><a "
+"rel=\"nofollow\" class=\"external free\" href=\"http://www.cjr.org/feature/burnin"
+"g_the_virtual_shoe_leath.php?page=3\">http://www.cjr.org/feature/burning_the_"
+"virtual_shoe_leath.php?page=3</a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h2%3A334
+msgid ""
+"External links</span> <span class=\"mw-editsection\">[<a href=\"http://en.wikip"
+"edia.org/w/index.php?title=Peter_Ludlow&action=edit&section=18&editintro=Tem"
+"plate:BLP_editintro\" title=\"Edit section: External links\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A336
+msgid "Ludlow' Home Page"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A337
+msgid "Ludlow's curriculum vitae."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A338
+msgid "Alphaville Herald (Second Life Herald)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A340
+msgid ""
+"Articles about Ludlow</span> <span class=\"mw-editsection\">[<a href=\"http://e"
+"n.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=19&editin"
+"tro=Template:BLP_editintro\" title=\"Edit section: Articles about "
+"Ludlow\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A342
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://dir.salon.com/story/tec"
+"h/feature/2003/12/12/sims_online_newspaper/index.html\">Raking muck in \"The "
+"Sims Online\"</a> Salon (December 12, 2003)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A343
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Amy_Harmon\" title=\"Amy Harmon\">Amy "
+"Harmon</a>, <a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://www.nytimes.com/2004/01/15/technology/15SIMS.html\">A Real Life "
+"Debate on Free Expression in a Cyberspace City</a> <a "
+"href=\"http://en.wikipedia.org/wiki/The_New_York_Times\" title=\"The New York "
+"Times\">The New York Times</a>, Jan. 15, 2004."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A344
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Jesse_Walker\" title=\"Jesse "
+"Walker\">Jesse Walker</a>, <a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://reason.com/archives/2004/04/01/hobbes-in-cyberspace\">Hobbes in "
+"Cyberspace</a> Reason (2004)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A345
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://chronicle.com/article"
+"/The-Second-Life-of-Peter-J/1959/\">The Second Life of Peter J. Ludlow</a> "
+"Andrea Foster, <a "
+"href=\"http://en.wikipedia.org/wiki/The_Chronicle_of_Higher_Education\" "
+"title=\"The Chronicle of Higher Education\">The Chronicle of Higher "
+"Education</a>. Dec. 7, 2007."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A347
+msgid ""
+"Interviews with Ludlow</span> <span class=\"mw-editsection\">[<a href=\"http://"
+"en.wikipedia.org/w/index.php?title=Peter_Ludlow&action=edit&section=20&editi"
+"ntro=Template:BLP_editintro\" title=\"Edit section: Interviews with "
+"Ludlow\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A349
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://blogs.telegraph.co.uk/t"
+"echnology/iandouglas/3625971/Virtual_villainy/\">Virtual Villany</a> Part one "
+"of an interview with Ludlow, Telegraph 2006 | <a rel=\"nofollow\" "
+"class=\"external text\" href=\"http://blogs.telegraph.co.uk/technology/iandougl"
+"as/3625981/More_news_from_another_world/\">More news from another world</a>, "
+"part two."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A350
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://www.henryjenkins.org/20"
+"07/02/the_news_from_second_life_an_i.html\">The News from Second Life: an "
+"interview with Peter Ludlow.</a> Henry Jenkins, Confessions of an Aca/Fan, "
+"Feb. 8, 2007."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A351
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://www.banchedati.ilsole24ore.com/doc.get?uid=sole-"
+"SS20100128009CNV\">Il Virtuale Molto Reale</a>. Interviewed by Giuseppe "
+"Granieri. <a href=\"http://en.wikipedia.org/wiki/Il_Sole_24_Ore\" title=\"Il "
+"Sole 24 Ore\">Il Sole 24 Ore</a>. Jan. 28, 2010. (In Italian)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A352
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://espresso.repubblica.it/dettaglio/monarchia-social-"
+"network/2136478\">Monarchia Social Network</a> Interviewed by Alessandro "
+"Longo in <a href=\"http://en.wikipedia.org/wiki/L%27Espresso\" "
+"title=\"L'Espresso\" class=\"mw-redirect\">L'Espresso</a>, Oct. 10, 2010. (In "
+"Italian"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A354
+msgid ""
+"Selected non-academic essays and articles by Ludlow</span> <span class=\"mw-"
+"editsection\">[<a href=\"http://en.wikipedia.org/w/index.php?title=Peter_Ludlo"
+"w&action=edit&section=21&editintro=Template:BLP_editintro\" title=\"Edit "
+"section: Selected non-academic essays and articles by Ludlow\">edit</a>]"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A356
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://www.huffingtonpost.com"
+"/urizenus-sklar/understanding-conspiracy-_b_793463.html\">Understanding "
+"Conspiracy: The Political Philosophy of Julian Assange</a>. (Urizenus "
+"Sklar). <i>Huffington Post</i>, Dec. 8, 2010."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A357
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://www.alternet.org/story/"
+"148521/10_ways_hackers_have_punked_corporations_and_oppressive_governments/\""
+">10 Ways Hacktivists have Punked Corporations and Oppressive Governments. "
+"with Burcu Bakioglu</a>. <i>Alternet</i>, Oct. 19, 2010."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A358
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://www.thenation.com/article/154780/wikileaks-and-hacktivist-"
+"culture\">Wikileaks and Hacktivist Culture</a>. <i>The Nation</i>. Sept. 15, "
+"2010."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A359
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" "
+"href=\"http://henryjenkins.org/2010/04/choose_your_ficitons_well.html\">Choose "
+"Your Fictions Well</a>. With Henry Jenkins. Confessions of an Aca-fan. "
+"April 14, 2010."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A360
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://henryjenkins.org/2010/0"
+"4/watching_the_watchers_power_an.html\">Watching the Watchers</a>. On Henry "
+"Jenkins' blog, Confessions of an Aca-fan. April 9, 2010."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A361
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://www.lastampa.it/_web/cm"
+"stp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=7129&ID_sezi"
+"one=&sezione=\">Teste da Ingegneri e Cuori da Umanisti: E Questo il "
+"Futuro</a>. <i>La Stampa</i>, Jan. 13, 2010. (In Italian.)"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A362
+msgid ""
+"<a rel=\"nofollow\" class=\"external text\" href=\"http://entertainment.timesonli"
+"ne.co.uk/tol/arts_and_entertainment/article1006710.ece\">There Goes the "
+"Neighborhood</a>. <i>The Times (of London) Online</i>. Jan. 31, 2004."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A363
+msgid ""
+"http://www.huffingtonpost.com/urizenus-sklar/charlie-sheen-"
+"nihilism_b_838065.html"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.table.tbody.tr.th%3A370
+msgid "Authority control"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td.table.tbody.tr.td.div.ul.li%3A374
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Virtual_International_Authority_File\" "
+"title=\"Virtual International Authority File\">VIAF</a>: <span class=\"uid\"><a "
+"rel=\"nofollow\" class=\"external text\" "
+"href=\"http://viaf.org/viaf/76408954\">76408954</a></span>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A385
+msgid "Persondata"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A388
+msgid "Name"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A389
+msgid "Ludlow, Peter"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A392
+msgid "Alternative names"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A393
+msgid "Urizenus Sklar"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A396
+msgid "Short description"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A397
+msgid "American philosopher"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A400
+msgid "Date of birth"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A401
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.tbody.tr.td:401"
+msgid "January 16, 1957"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A404
+msgid "Place of birth"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A408
+msgid "Date of death"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A412
+msgid "Place of death"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div%3A431
+msgid ""
+"Retrieved from \"<a href=\"http://en.wikipedia.org/w/index.php?title=Peter_Lud"
+"low&oldid=548038778\">http://en.wikipedia.org/w/index.php?title=Peter_Ludlow&"
+"oldid=548038778</a>\""
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Help:Categories\" "
+"title=\"Help:Categories\">Categories</a>: <ul>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Northwestern University faculty"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "20th-century philosophers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "21st-century philosophers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "American linguists"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "American non-fiction writers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "American philosophers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "American technology writers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "University of Toronto faculty"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Postmodernism"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Living people"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "1957 births"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Syntacticians"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Philosophers of language"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "American logicians"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Epistemologists"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Hidden categories: <ul>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Infobox philosopher maintenance"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A433
+msgid "Wikipedia articles with VIAF identifiers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.h2%3A437
+msgid "Navigation menu"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A440
+msgid "Personal tools"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A442
+msgid "Create account"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.ul.li%3A442
+msgid "Log in"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.h3%3A446
+msgid "Namespaces"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A448
+msgid "Article"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A449
+msgid "Talk"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.h3%3A455
+msgid "<span>Variants</span><a href=\"#\"></a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.h3%3A464
+msgid "Views"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A466
+msgid "Read"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A467
+msgid "Edit"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A469
+msgid "View history"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.h3%3A473
+msgid "<span>Actions</span><a href=\"#\"></a>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.h3%3A480
+msgid "Search"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A492
+msgid "Navigation"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A495
+msgid "Main page"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A496
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.div.ul.li:496"
+msgid "Contents"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A497
+msgid "Featured content"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A498
+msgid "Current events"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A499
+msgid "Random article"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A500
+msgid "Donate to Wikipedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A505
+msgid "Interaction"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A508
+msgid "Help"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A509
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.div.ul.li:509"
+msgid "About Wikipedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A510
+msgid "Community portal"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A511
+msgid "Recent changes"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A512
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.div.ul.li:512"
+msgid "Contact Wikipedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A517
+msgid "Toolbox"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A520
+msgid "What links here"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A521
+msgid "Related changes"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A522
+msgid "Upload file"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A523
+msgid "Special pages"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A524
+msgid "Permanent link"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A525
+msgid "Page information"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A526
+msgid "Cite this page"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A526
+msgid "Add your feedback"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A526
+msgid "View feedback"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A530
+msgid "Print/export"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A533
+msgid "Create a book"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A534
+msgid "Download as PDF"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A535
+msgid "Printable version"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.h3%3A540
+msgid "Languages"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A543
+msgid "Deutsch"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A544
+msgid "Português"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.div.ul.li%3A545
+msgid "Edit links"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li.br%3A553
+msgid "This page was last modified on 31 March 2013 at 20:49.<br>"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A554
+msgid ""
+"Text is available under the <a rel=\"license\" "
+"href=\"http://en.wikipedia.org/wiki/Wikipedia"
+":Text_of_Creative_Commons_Attribution-"
+"ShareAlike_3.0_Unported_License\">Creative Commons Attribution-ShareAlike "
+"License</a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\" style=\"display:none;\"></a>; additional terms may apply. By using "
+"this site, you agree to the <a "
+"href=\"http://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> and "
+"<a href=\"http://wikimediafoundation.org/wiki/Privacy_policy\">Privacy "
+"Policy.</a> <br> Wikipedia® is a registered trademark of the <a "
+"href=\"http://www.wikimediafoundation.org/\">Wikimedia Foundation, Inc.</a>, a "
+"non-profit organization."
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A559
+msgid "Privacy policy"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A560
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.ul.li:560"
+msgid "About Wikipedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A561
+msgid "Disclaimers"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A562
+msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.ul.li:562"
+msgid "Contact Wikipedia"
+msgstr ""
+
+#: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.ul.li%3A563
+msgid "Mobile view"
+msgstr ""
