@@ -11,3 +11,7 @@ po2txt -i NSA\ slides\ explain\ the\ PRISM\ data-collection\ program\ -\ The\ Wa
 - Peter Ludlow - Wikipedia, the free encyclopedia
 
 html2po -i Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia.html -o Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.po
+
+po2html -i Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.po -o Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.html -t Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia.html
+
+
