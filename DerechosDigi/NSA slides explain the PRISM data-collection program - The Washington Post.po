@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 12:13-0430\n"
-"PO-Revision-Date: 2013-06-07 12:28-0430\n"
+"PO-Revision-Date: 2013-06-07 13:46-0430\n"
 "Last-Translator: Lengemann Guillermo <omerta@unefa-glug.org.ve>\n"
 "Language-Team: omerta\n"
 "Language: es\n"
@@ -1086,10 +1086,12 @@ msgstr ""
 msgctxt "NSA slides explain the PRISM data-collection program - The Washington Post.html+html.body.div.div.div.h1:1417"
 msgid "NSA slides explain the PRISM data-collection program"
 msgstr ""
+"Diapositivas de la NSA (Agencia de Seguridad Nacional) explican PRIMS, un "
+"programa de recolección de datos"
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.h3%3A1417
 msgid "Published: June 6, 2013"
-msgstr ""
+msgstr "Publicado el 6 de junio de 2013 "
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.p%3A1417
 msgid ""
@@ -1107,64 +1109,97 @@ msgid ""
 "program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html\">Read "
 "related article</a>."
 msgstr ""
+"A través de un programa secreto autorizado por jueces federales basado en la "
+"Ley de Vigilancia de Inteligencia Extranjera (<a href=\"http://en.wikipedia."
+"org/wiki/Foreign_Intelligence_Surveillance_Act\">Foreign Intelligence "
+"Surveillance Act (FISA)</a>), la comunidad de inteligencia estadounidense "
+"puede conseguir acceso a servidores de nueve compañías de internet con una "
+"amplia gama de datos digitales. Los documentos describen un programa antes "
+"desconocido, obtenido por The Washington Post, muestra la amplitud de las "
+"capacidades de vigilancia electrónica de Estados Unidos que tiene sus "
+"inicios en una muy difundida controversia sobre las escuchas instaladas sin "
+"orden judicial es las lineas domesticas de comunicaciones estadounidenses en "
+"2005. Estas diapositivas, comentadas por The Washington Post, representan "
+"un selección de todo el documento y algunas partes están censuradas. <a "
+"href=\"http://www.washingtonpost.com/investigations/us-intelligence-mining-"
+"data-from-nine-us-internet-companies-in-broad-secret-"
+"program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html\">Leer "
+"artículos relacionados</a>."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.h4%3A1427
 msgid "Introducing the program"
-msgstr ""
+msgstr "Presentación del programa"
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.p%3A1427
 msgid ""
 "A slide briefing analysts at the National Security Agency about the program "
 "touts its effectiveness and features the logos of the companies involved."
 msgstr ""
+"Una de las diapositivas de la Agencia de Seguridad Nacional promociona su "
+"efectividad del programa y muestra los logos de las compañías involucradas."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A1430
 msgid ""
 "The program is called PRISM, after the prisms used to split light, which is "
 "used to carry information on fiber-optic cables."
 msgstr ""
+"El programa es llamado <a href=\"http://en.wikipedia.org/wiki/PRISM_%"
+"28surveillance_program%29\">PRISM</a>, los prismas son usados para dividir la "
+"luz, la luz se utiliza para llevar información por medio de cables de fibra "
+"óptica."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A1430
 msgid ""
 "This note indicates that the program is the number one source of raw "
 "intelligence used for NSA analytic reports."
 msgstr ""
+"Esta nota indica que el programa es la fuente numero uno de los datos de "
+"inteligencia crudos usados para los reportes de análisis de la NSA."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.div.div.p.br%3A1430
 msgid ""
 "The seal of<br>Special Source Operations, the NSA term for alliances with "
 "trusted U.S. companies."
 msgstr ""
+"El sello de la Fuente de Operaciones Especiales (Special Source Operations), "
+"muestra la alianza con otras empresas de confianza estadounidenses."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.h4%3A1430
 msgid "Monitoring a target's communication"
-msgstr ""
+msgstr "El objetivo es el monitoreo de las comunicaciones"
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.p%3A1430
 msgid ""
 "This diagram shows how the bulk of the world’s electronic communications "
 "move through companies based in the United States."
 msgstr ""
+"Este diagrama muestra como el volumen de las comunicaciones electrónicas se "
+"mueve por medio de compañías con base en los Estados Unidos. "
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.h4%3A1430
 msgid "Providers and data"
-msgstr ""
+msgstr "Los proveedores y los datos"
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.p%3A1430
 msgid ""
 "The PRISM program collects a wide range of data from the nine companies, "
 "although the details vary by provider."
 msgstr ""
+"El programa PRISM recoge un amplio rango de datos desde nueve compañías, "
+"aunque el detalle es variante de acuerdo con el proveedor."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.h4%3A1430
 msgid "Participating providers"
-msgstr ""
+msgstr "Proveedores participantes"
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.p%3A1430
 msgid ""
 "This slide shows when each company joined the program, with Microsoft being "
 "the first, on Sept. 11, 2007, and Apple the most recent, in October 2012."
 msgstr ""
+"Esta diapositiva muestra cuando capa compañía ingreso al programa, con "
+"Microsoft siendo la primera, el 11 septiembre de 2007 y Apple la mas "
+"reciente en octubre de 2012."
 
 #: NSA+slides+explain+the+PRISM+data-collection+program+-+The+Washington+Post.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A1436
 msgid "SuperFan Badge"
