@@ -1,19 +1,22 @@
+# Lengemann Guillermo <omerta@unefa-glug.org.ve>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 15:31-0430\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-06-07 15:47-0430\n"
+"Last-Translator: Lengemann Guillermo <omerta@unefa-glug.org.ve>\n"
+"Language-Team: omerta\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.head.title%3A4
 msgid "Peter Ludlow - Wikipedia, the free encyclopedia"
-msgstr ""
+msgstr "Peter Ludlow"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.head.meta%3A-1
 msgid "MediaWiki 1.22wmf4"
@@ -50,36 +53,36 @@ msgstr ""
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.caption%3A92
 msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.caption:92"
 msgid "Peter Ludlow"
-msgstr ""
+msgstr "Peter Ludlow"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A97
 msgid "Born"
-msgstr ""
+msgstr "nació"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A98
 msgctxt "Peter Ludlow - Wikipedia, the free encyclopedia.html+html.body.div.div.div.table.tbody.tr.td:98"
 msgid "January 16, 1957"
-msgstr ""
+msgstr "el 16 de Enero de 1957"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A101
 msgid "Era"
-msgstr ""
+msgstr "Era"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A102
 msgid "Contemporary philosophy"
-msgstr ""
+msgstr "Filosofía Contemporánea"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A105
 msgid "School"
-msgstr ""
+msgstr "Escuela"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A106
 msgid "Analytic philosophy"
-msgstr ""
+msgstr "Filosofía Analítica"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.th%3A109
 msgid "Main interests"
-msgstr ""
+msgstr "Intereses principales"
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.table.tbody.tr.td%3A110
 msgid ""
@@ -153,6 +156,13 @@ msgid ""
 "href=\"http://en.wikipedia.org/wiki/Logic\" title=\"Logic\">logic</a>, among "
 "other areas."
 msgstr ""
+"<b>Peter Ludlow</b> (nació el 16 de enero de 1957), escribe bajo el "
+"seudónimo de <b>Urizenus Sklar</b>, es un profesor de filosofía de la <a "
+"href=\"http://es.wikipedia.org/wiki/Universidad_Northwestern\" "
+"title=\"Universidad de Northwestern\">Universidad de Northwestern</a>. Antes "
+"de mudarse ha la Univeridad de Northwestern, Ludlow enseñó en la Universidad "
+"de Toronto, la Universidad de Michigan y en la Universidad de Stony Brook. "
+"Ha hecho mucho trabajo interdisciplinario sobre la  "
 
 #: Peter+Ludlow+-+Wikipedia%2C+the+free+encyclopedia.html%2Bhtml.body.div.div.div.p%3A140
 msgid ""
