@@ -1,0 +1,1908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-10 10:27-0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.title%3A3
+msgid "Hacktivists as Gadflies - NYTimes.com"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Hacktivists As Gadflies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid ""
+"Auernheimer Andrew,Keys Matthew,Computer Security,Computers and the "
+"Internet,Cyberattacks and Hackers,Anonymous (Internet Group),AT&,T Inc"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"For those whose real crime is outsmarting the authorities, severe punishment "
+"awaits."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Auernheimer, Andrew;Keys, Matthew"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Computer Security;Computers and the Internet;Cyberattacks and Hackers"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Anonymous (Internet Group);AT&T Inc"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "Hacktivists as Gadflies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "article"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"http://opinionator.blogs.nytimes.com/2013/04/13/hacktivists-as-gadflies/"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Opinionator"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"For those whose real crime is outsmarting the authorities, severe punishment "
+"awaits."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid ""
+"http://graphics8.nytimes.com/images/blogs_v3/../icons/t_logo_2048_black.png"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "Hacktivists as Gadflies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"http://opinionator.blogs.nytimes.com/2013/04/13/hacktivists-as-gadflies/"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"For those whose real crime is outsmarting the authorities, severe punishment "
+"awaits."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Blogs"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "Blog Post"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "By PETER LUDLOW"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "By PETER LUDLOW"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "PETER LUDLOW"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "20130413"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "20130413"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "20130413133630"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "20130413170059"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "The Stone"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "normal"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "Opinion"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "opinionator"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid "opinionator"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "NYT_Blogs"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "blogs/opinionator/Hacktivists as Gadflies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.head.meta:-1"
+msgid ""
+"http://opinionator.blogs.nytimes.com/2013/04/13/hacktivists-as-gadflies/"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.head.meta%3A-1
+msgid "2wd1TftFZTMZCWbBV0FE6w"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.ul.li%3A138
+msgid "Log In"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.ul.li%3A138
+msgid "Register Now"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.ul.li%3A138
+msgid "Home Page"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.ul.li%3A138
+msgid "Today's Paper"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.ul.li%3A138
+msgid "Video"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.ul.li%3A138
+msgid "Most Popular"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div%3A138
+msgid "U.S. Edition"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A138
+msgid "Global Edition"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A138
+msgid "中文网 (Chinese)"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div%3A138
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.Middle1C != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.Middle1C.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.Middle1C == "
+"\"undefined\")) { if($(\"Middle1C\")) { $(\"Middle1C\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=Middle1C\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote."
+"html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShare"
+"Data,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Middl"
+"eRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bott"
+"om7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Left"
+"1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JMN"
+"ow3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=Middle1"
+"C&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.form.div.input%3A147
+msgid ""
+"<label for=\"searchQuery\">Search All NYTimes.com</label><input "
+"id=\"searchQuery\" name=\"query\" type=\"text\"><input id=\"searchSubmit\" "
+"title=\"Search\" alt=\"Search\" src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/go.gif\" type=\"image\"><input value=\"nyt\" name=\"type\" "
+"id=\"searchAll\" type=\"hidden\">"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.h2%3A147
+msgid "The Opinion Pages"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "World"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "U.S."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "N.Y. / Region"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Business"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Technology"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Science"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Health"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Sports"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.ul.li:147"
+msgid "Opinion"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Arts"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Style"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Travel"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Jobs"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Real Estate"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.ul.li%3A147
+msgid "Autos"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "Editorials"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "Columnists"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "Contributors"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "Letters"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "The Public Editor"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.ul.li%3A147
+msgid "Global Opinion"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div%3A153
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.TopAd != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.TopAd.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads != \"undefined\") && (typeof NYTD.Blogs.Ads.TopAd != "
+"\"undefined\") && ((NYTD.Blogs.Ads.TopAd.creative).indexOf(\"blank.gif\")!=-1)){ "
+"$(\"TopAd\").hide(); } // ]]> </script><script type=\"text/javascript\"> // "
+"<![CDATA[ if ((typeof NYTD.Blogs.Ads == \"undefined\") || (typeof "
+"NYTD.Blogs.Ads.TopAd == \"undefined\")) { if($(\"TopAd\")) { $(\"TopAd\").hide(); "
+"} } // ]]> </script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_cl"
+"ick.html?type=cookie&pos=TopAd\"><img src=\"http://www.nytimes.com/adx/bin/adx"
+"_remote.html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL"
+",AdShareData,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLi"
+"nk,MiddleRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middl"
+"e1C,Bottom7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Midd"
+"le4,Left1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JM"
+"Now2,JMNow3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos"
+"=TopAd&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div%3A167
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.PushDown != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.PushDown.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.PushDown == "
+"\"undefined\")) { if($(\"PushDown\")) { $(\"PushDown\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=PushDown\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote."
+"html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShare"
+"Data,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Middl"
+"eRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bott"
+"om7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Left"
+"1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JMN"
+"ow3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=PushDow"
+"n&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.header.div%3A183
+msgid ""
+"The Stone</a></span> <time datetime=\"2013-04-13T17:36:30+00:00\" title=\"April "
+"13, 2013, 1:36 pm\"> April 13, 2013, 1:36 pm</time> <span "
+"class=\"postMetaHeaderCommentCount commentCount\"><a class=\"commentCountLink "
+"icon commentIcon\" href=\"http://opinionator.blogs.nytimes.com/2013/04/13"
+"/hacktivists-as-gadflies/#postComment\">170 Comments"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.header.h1%3A191
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.header.h1:191"
+msgid "Hacktivists as Gadflies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.header.address%3A192
+msgid ""
+"By <a href=\"http://opinionator.blogs.nytimes.com/author/peter-ludlow/\" "
+"class=\"url fn\" title=\"See all posts by PETER LUDLOW\">PETER LUDLOW</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.img%3A196
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.div.div.img:196"
+msgid "The Stone"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.p%3A197
+msgid ""
+"<a href=\"http://opinionator.blogs.nytimes.com/category/the-stone/\">The "
+"Stone</a> is a forum for contemporary philosophers on issues both timely and "
+"timeless."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.h4%3A200
+msgid "Tags:"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.p%3A201
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.div.p:201"
+msgid ""
+"Anonymous (Internet Group)</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/att-inc/\" rel=\"tag\">AT&T "
+"Inc</a>, <a href=\"http://opinionator.blogs.nytimes.com/tag/auernheimer-"
+"andrew/\" rel=\"tag\">Auernheimer, Andrew</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/computer-security/\" "
+"rel=\"tag\">Computer Security</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/computers-and-the-internet/\" "
+"rel=\"tag\">Computers and the Internet</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/cyberattacks-and-hackers/\" "
+"rel=\"tag\">Cyberattacks and Hackers</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/keys-matthew/\" "
+"rel=\"tag\">Keys, Matthew"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A204
+msgid ""
+"Around 400 B.C., Socrates was brought to trial on charges of corrupting the "
+"youth of Athens and “impiety.” Presumably, however, people believed then as "
+"we do now, that Socrates’ real crime was being too clever and, not "
+"insignificantly, a royal pain to those in power or, as Plato put it, a "
+"gadfly. Just as a gadfly is an insect that could sting a horse and prod it "
+"into action, so too could Socrates sting the state. He challenged the moral "
+"values of his contemporaries and refused to go along with unjust demands of "
+"tyrants, often obstructing their plans when he could. Socrates thought his "
+"service to Athens should have earned him free dinners for life. He was given "
+"a cup of hemlock instead."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.blockquote.p%3A215
+msgid ""
+"<blockquote>The government is treating hackers who try to make a political "
+"point as serious threats."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A219
+msgid ""
+"We have had gadflies among us ever since, but one contemporary breed in "
+"particular has come in for a rough time of late: the “hacktivist.” While "
+"none have yet been forced to drink hemlock, the state has come down on them "
+"with remarkable force. This is in large measure evidence of how poignant, "
+"and troubling, their message has been.<span id=\"more-142737\"></span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A224
+msgid ""
+"Hacktivists, roughly speaking, are individuals who redeploy and repurpose "
+"technology for social causes. In this sense they are different from garden-"
+"variety hackers out to enrich only themselves. People like Steve Jobs, Steve "
+"Wozniak and Bill Gates began their careers as hackers — they repurposed "
+"technology, but without any particular political agenda. In the case of Mr. "
+"Jobs and Mr. Wozniak, they built and sold “blue boxes,” devices that allowed "
+"users to defraud the phone company. Today, of course, these people are "
+"establishment heroes, and the contrast between their almost exalted state "
+"and the scorn being heaped upon hacktivists is instructive."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div%3A234
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/14STONE-"
+"blog427.jpg\" id=\"100000002168735\" alt=\"\" width=\"427\" height=\"511\"><span "
+"class=\"credit\">Brecht Vandenbroucke</span> <span class=\"caption\"></span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A235
+msgid ""
+"For some reason, it seems that the government considers hackers who are out "
+"to line their pockets less of a threat than those who are trying to make a "
+"political point. Consider the case of Andrew Auernheimer, better known as "
+"“Weev.” When Weev discovered in 2010 that AT&T had left private information "
+"about its customers vulnerable on the Internet, he and a colleague wrote a "
+"script to access it. Technically, he did not “hack” anything; he merely "
+"executed a simple version of what Google Web crawlers do every second of "
+"every day — sequentially walk through public URLs and extract the content. "
+"When he got the information (the e-mail addresses of 114,000 iPad users, "
+"including Mayor Michael Bloomberg and Rahm Emanuel, then the White House "
+"chief of staff), Weev did not try to profit from it; he notified the blog "
+"Gawker of the security hole."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A248
+msgid ""
+"For this service Weev might have asked for free dinners for life, but "
+"instead he was recently sentenced to 41 months in prison and ordered to pay "
+"a fine of more than $73,000 in damages to AT&T to cover the cost of "
+"notifying its customers of its own security failure."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A252
+msgid ""
+"When the federal judge Susan Wigenton sentenced Weev on March 18, she "
+"described him with prose that could have been lifted from the prosecutor "
+"Meletus in Plato’s “Apology.” “You consider yourself a hero of sorts,” she "
+"said, and noted that Weev’s “special skills” in computer coding called for a "
+"more draconian sentence. I was reminded of a line from an essay written in "
+"1986 by a hacker called the Mentor: “My crime is that of outsmarting you, "
+"something that you will never forgive me for.”"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A260
+msgid ""
+"When offered the chance to speak, Weev, like Socrates, did not back down: “I "
+"don’t come here today to ask for forgiveness. I’m here to tell this court, "
+"if it has any foresight at all, that it should be thinking about what it can "
+"do to make amends to me for the harm and the violence that has been "
+"inflicted upon my life.”"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A265
+msgid ""
+"He then went on to heap scorn upon the law being used to put him away — the "
+"Computer Fraud and Abuse Act, the same law that prosecutors used to go after "
+"the 26-year-old Internet activist Aaron Swartz, who committed suicide in "
+"January."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A269
+msgid ""
+"The law, as interpreted by the prosecutors, makes it a felony to use a "
+"computer system for “unintended” applications, or even violate a terms-of-"
+"service agreement. That would theoretically make a felon out of anyone who "
+"lied about their age or weight on Match.com."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A273
+msgid ""
+"The case of Weev is not an isolated one. Barrett Brown, a journalist who had "
+"achieved some level of notoriety as the “the former unofficial not-"
+"spokesman for Anonymous,” the hacktivist group, now sits in federal custody "
+"in Texas. Mr. Brown came under the scrutiny of the authorities when he began "
+"poring over documents that had been released in the hack of two private "
+"security companies, HBGary Federal and Stratfor. Mr. Brown did not take part "
+"in the hacks, but he did become obsessed with the contents that emerged "
+"from them — in particular the extracted documents showed that private "
+"security contractors were being hired by the United States government to "
+"develop strategies for undermining protesters and journalists, including "
+"Glenn Greenwald, a columnist for Salon. Since the cache was enormous, Mr. "
+"Brown thought he might crowdsource the effort and copied and pasted the URL "
+"from an Anonymous chat server to a Web site called Project PM, which was "
+"under his control."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.h6%3A290
+msgid "Related"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.h5%3A291
+msgid "More From The Stone"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.p%3A292
+msgid "Read previous contributions to this series."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A295
+msgid ""
+"Just to be clear, what Mr. Brown did was repost the URL from a Web site that "
+"was publicly available on the Internet. Because Stratfor had not encrypted "
+"the credit card information of its clients, the information in the cache "
+"included credit card numbers and validation numbers. Mr. Brown didn’t "
+"extract the numbers or highlight them; he merely offered a link to the "
+"database. For this he was charged on 12 counts, all of which pertained to "
+"credit card fraud. The charges against him add up to about 100 years in "
+"federal prison. It was “virtually impossible,” Mr. Greenwald, wrote recently "
+"in The Guardian, his new employer, “to conclude that the obscenely "
+"excessive prosecution he now faces is unrelated to that journalism and his "
+"related activism.”"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A306
+msgid ""
+"Other hacktivists have felt the force of the United States government in "
+"recent months, and all reflect an alarming contrast between the severity of "
+"the punishment and the flimsiness of the actual charges. The case of Aaron "
+"Swartz has been well documented. Jeremy Hammond, who reportedly played a "
+"direct role in the Stratfor and HBGary hacks, has been in jail for more than "
+"a year awaiting trial. Mercedes Haefer, a journalism student at the "
+"University of Nevada, Las Vegas, faces charges for hosting an Internet Relay "
+"Chat channel where an Anonymous denial of service attack was planned. Most "
+"recently, Matthew Keys, a 26-year-old social-media editor at Reuters, who "
+"allegedly assisted hackers associated with Anonymous (who reportedly then "
+"made a prank change to a Los Angeles Times headline), was indicted on "
+"federal charges that could result in more than $750,000 in fines and prison "
+"time, inciting a new outcry against the law and its overly harsh "
+"enforcement. The list goes on."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p.br%3A321
+msgid ""
+"In a world in which nearly everyone is technically a felon, we rely on the "
+"good judgment of prosecutors to decide who should be targets and how hard "
+"the law should come down on them. We have thus entered a legal reality not "
+"so different from that faced by Socrates when the Thirty Tyrants ruled "
+"Athens, and it is a dangerous one. When everyone is guilty of something, "
+"those most harshly prosecuted tend to be the ones that are challenging the "
+"established order, poking fun at the authorities, speaking truth to power — "
+"in other words, the gadflies of our society.<br>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.p%3A331
+msgid ""
+"Peter Ludlow is professor of philosophy at Northwestern University. His most "
+"recent book is “<a href=\"http://www.oup.com/us/catalog/general/subject/Phil"
+"osophy/?view=usa&ci=9780199674473\">The Philosophy of Generative "
+"Linguistics</a>.”"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.h6%3A332
+msgid ""
+"A version of this article appeared in print on 04/14/2013, on page SR5 of "
+"the National edition with the headline: Hacktivists As Gadflies."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li%3A338
+msgid "Save"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li%3A338
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.ul.li:338"
+msgid "E-mail"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li%3A338
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.ul.li:338"
+msgid "Share"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li%3A338
+msgid "Print"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A339
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div:339"
+msgid ""
+"Anonymous (Internet Group)</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/att-inc/\" rel=\"tag\">AT&T "
+"Inc</a>, <a href=\"http://opinionator.blogs.nytimes.com/tag/auernheimer-"
+"andrew/\" rel=\"tag\">Auernheimer, Andrew</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/computer-security/\" "
+"rel=\"tag\">Computer Security</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/computers-and-the-internet/\" "
+"rel=\"tag\">Computers and the Internet</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/cyberattacks-and-hackers/\" "
+"rel=\"tag\">Cyberattacks and Hackers</a>, <a "
+"href=\"http://opinionator.blogs.nytimes.com/tag/keys-matthew/\" "
+"rel=\"tag\">Keys, Matthew"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div%3A345
+msgid ""
+"Previous Post</span> <a "
+"href=\"http://opinionator.blogs.nytimes.com/2013/04/12/the-le-vache-from-"
+"hope-to-disaster/\">The Île à Vache: From Hope to Disaster</a> <span "
+"class=\"byline\">By PHILLIP W. MAGNESS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h4%3A350
+msgid "Related Posts from Opinionator"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li.h6%3A352
+msgid "What Is a ‘Hacktivist’?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li.h6%3A352
+msgid "How Writers Interact With the World"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li.h6%3A352
+msgid "Out of Network: The Art of Filippo Minelli"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li.h6%3A352
+msgid "Will Journalism Go the Way of Whaling?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.ul.li.h6%3A352
+msgid "Cambridge, Cabs and Copenhagen: My Route to Existential Risk"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div%3A354
+msgid ""
+"Next Post</span> <a href=\"http://opinionator.blogs.nytimes.com/2013/04/14/a"
+"-tax-system-stacked-against-the-99-percent/\">A Tax System Stacked Against "
+"the 99 Percent</a> <span class=\"byline\">By JOSEPH E. STIGLITZ"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h3%3A362
+msgid ""
+"<a name=\"comments\"></a><a name=\"postcomment\"></a><span "
+"class=\"headerCommentCount\">170 Comments</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A362
+msgid "Share your thoughts."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.ul.li%3A362
+msgid "All"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.ul.li%3A362
+msgid "Reader Picks"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.ul.li%3A362
+msgid "NYT Picks"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div%3A362
+msgid "Newest"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div%3A362
+msgid "Write a Comment"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.img%3A362
+msgid "Loading"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.p%3A362
+msgid ""
+"Verified Commenters enjoy the privilege of commenting on articles and blog "
+"posts without moderation."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.p%3A362
+msgid "Verified Commenter FAQ"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.h5%3A362
+msgid "Report Inappropriate Comment"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div%3A362
+msgid "Vulgar"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div%3A362
+msgid "Inflammatory"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div%3A362
+msgid "Personal Attack"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div%3A362
+msgid "Spam"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div.ul.li.div%3A362
+msgid "Off-topic"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.div.div.div.div.div.div.div%3A362
+msgid ""
+"Submit</button> <button type=\"button\" class=\"textButton cancelButton\">Cancel"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div%3A370
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.SponLink2 != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.SponLink2.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.SponLink2 == "
+"\"undefined\")) { if($(\"SponLink2\")) { $(\"SponLink2\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=SponLink2\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote"
+".html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShar"
+"eData,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Midd"
+"leRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bot"
+"tom7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Lef"
+"t1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JM"
+"Now3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=SponLi"
+"nk2&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A386
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.Position1 != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.Position1.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.Position1 == "
+"\"undefined\")) { if($(\"Position1\")) { $(\"Position1\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=Position1\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote"
+".html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShar"
+"eData,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Midd"
+"leRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bot"
+"tom7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Lef"
+"t1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JM"
+"Now3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=Positi"
+"on1&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.h4%3A398
+msgid "Search This Blog"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.form.div%3A401
+msgid ""
+"<input name=\"s\" id=\"s\" type=\"text\"> <button type=\"submit\" "
+"id=\"blogSearchSubmit\">Search</button>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.ul.li%3A409
+msgid ""
+"Previous Post</span> <a "
+"href=\"http://opinionator.blogs.nytimes.com/2013/04/12/the-le-vache-from-"
+"hope-to-disaster/\" title=\"The Île à Vache: From Hope to Disaster\">The Île à "
+"Vache: From Hope to Disaster</a> <span class=\"byline\">By PHILLIP W. MAGNESS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.ul.li%3A413
+msgid ""
+"Next Post</span> <a href=\"http://opinionator.blogs.nytimes.com/2013/04/14/a"
+"-tax-system-stacked-against-the-99-percent/\" title=\"A Tax System Stacked "
+"Against the 99 Percent\">A Tax System Stacked Against the 99 Percent</a> "
+"<span class=\"byline\">By JOSEPH E. STIGLITZ"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.ul.li.h6%3A421
+msgid "Follow This Blog"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.ul.li%3A422
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.ul.li:422"
+msgid "Twitter"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.ul.li%3A423
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.ul.li:423"
+msgid "RSS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div%3A426
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.XXL != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.XXL.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.XXL == "
+"\"undefined\")) { if($(\"XXL\")) { $(\"XXL\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=XXL\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote.html?"
+"type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShareData,"
+"PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,MiddleRigh"
+"t,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bottom7,B"
+"ottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Left1B,Fr"
+"ame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JMNow3,J"
+"MNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=XXL&query=qs"
+"tring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A437
+msgid ""
+"The Stone features the writing of contemporary philosophers on issues both "
+"timely and timeless. The series moderator is Simon Critchley. He teaches "
+"philosophy at The New School for Social Research in New York. To contact the "
+"editors of The Stone, send an e-mail to <a "
+"href=\"mailto:opinionator@nytimes.com\" title=\"Send an "
+"e-mail\">opinionator@nytimes.com</a>. Please include “The Stone” in the "
+"subject field."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.ul.li%3A443
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.ul.li:443"
+msgid "The Stone RSS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.h4%3A444
+msgid "Inside Opinionator"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A449
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/greatdivide25.png\" alt=\"The Great Divide\" class=\"left\"> "
+"<a href=\"javascript:void(0);\">The Great Divide</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A456
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/thestone25.gif\" alt=\"The Stone\" class=\"left\"> <a "
+"href=\"javascript:void(0);\">The Stone</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A463
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/disunion25.gif\" alt=\"Disunion\" class=\"left\"> <a "
+"href=\"javascript:void(0);\">Disunion</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A470
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/measureformeasure25.png\" alt=\"Measure for Measure\" "
+"class=\"left\"> <a href=\"javascript:void(0);\">Measure for Measure</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A477
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/Egan_New-"
+"custom1.jpg\" alt=\"Timothy Egan\" class=\"left\"> <a "
+"href=\"javascript:void(0);\">Timothy Egan</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div%3A482
+msgid "More Contributors"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A485
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/anxiety25.gif\" "
+"alt=\"Anxiety\" class=\"left\"> <span class=\"author\">Anxiety</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A491
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/draft25.png\" "
+"alt=\"Draft\" class=\"left\"> <span class=\"author\">Draft</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A497
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/ezekiel_emanuel25.jpg\" alt=\"Ezekiel J. Emanuel\" "
+"class=\"left\"> <span class=\"author\">Ezekiel J. Emanuel</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A503
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/fixes25.gif\" "
+"alt=\"Fixes\" class=\"left\"> <span class=\"author\">Fixes</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A509
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files"
+"/Greenhouse_New-custom1.jpg\" alt=\"Linda Greenhouse\" class=\"left\"> <span "
+"class=\"author\">Linda Greenhouse</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A517
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/bittmanimage-"
+"custom2.jpg\" alt=\"Mark Bittman\" class=\"left\"> <span class=\"author\">Mark "
+"Bittman</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A523
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/inside-"
+"education25.png\" alt=\"Schooling\" class=\"left\"> <span "
+"class=\"author\">Schooling</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A529
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%"
+"20NYTimes.com_files/theconversation25.gif\" alt=\"The Conversation\" "
+"class=\"left\"> <span class=\"author\">The Conversation</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A535
+msgid ""
+"<img src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/Edsall-"
+"profile-custom2-v2.tiff\" alt=\"Thomas B. Edsall\" class=\"left\"> <span "
+"class=\"author\">Thomas B. Edsall</span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.div.ul.li%3A541
+msgid "All Contributors and Series »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A548
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:548"
+msgid "June 9, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A550
+msgid "Japan Is a Model, Not a Cautionary Tale"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A551
+msgid ""
+"Along many dimensions — greater income equality, longer life expectancy, "
+"lower unemployment, and greater investments in children’s education and "
+"health — Japan has done better than the United States."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A555
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:555"
+msgid "June 1, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A557
+msgid "The Myth of Gatsby’s Suffering Middle Class"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A558
+msgid ""
+"In the ’20s, the pleasures of the rich did not inflict suffering on the "
+"rest."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A559
+msgid "More From The Great Divide »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A559
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:559"
+msgid "June 9, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A561
+msgid "The Myth of ‘Just Do It’"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A562
+msgid ""
+"The idea that thinking interferes with doing is often taken for granted. But "
+"the realities at the highest levels of athletic and artistic performance "
+"are more complex."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A566
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:566"
+msgid "June 1, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A568
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:568"
+msgid "Does Great Literature Make Us Better?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A569
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:569"
+msgid ""
+"The view that literary fiction educates and civilizes its readers is "
+"widespread, and unproven."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A570
+msgid "More From The Stone »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A570
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:570"
+msgid "June 7, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A572
+msgid "Harriet Tubman’s Great Raid"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A573
+msgid ""
+"The hero of the Underground Railroad and her role in a mission to liberate "
+"hundreds of South Carolina slaves."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A575
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:575"
+msgid "June 6, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A577
+msgid "Mapping Appalachia"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A578
+msgid ""
+"Lincoln saw Appalachia as a key to winning the war. But first, he had to get "
+"a good map."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A579
+msgid "More From Disunion »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A579
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:579"
+msgid "June 7, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A581
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:581"
+msgid "Waving My Tweak Flag High"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A582
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:582"
+msgid ""
+"Even for the likes of Dylan and Jagger, a tiny lyric change can often make a "
+"big difference."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A584
+msgid "May 31, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A586
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:586"
+msgid "Untamed Melody"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A587
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:587"
+msgid ""
+"With words and homemade audio, the songwriter documents the birth of a few "
+"melodies and, hopefully, a song."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A588
+msgid "More From Measure for Measure »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A588
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:588"
+msgid "June 6, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A590
+msgid "Big Pot"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A591
+msgid "Can capitalism end the drug war?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A593
+msgid "May 30, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A595
+msgid "The Imperfect Immigrants"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A596
+msgid ""
+"They were ordinary only in the way of all people who left behind "
+"extraordinary circumstances, and often their secrets did not travel with "
+"them."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A599
+msgid "More From Timothy Egan »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A599
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:599"
+msgid "June 5, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A601
+msgid "Is Virginia for Haters?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A602
+msgid ""
+"The gubernatorial campaign may be the proving ground for how far out the "
+"cutting edge of social conservatism can go."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A604
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:604"
+msgid "May 29, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A606
+msgid "Why Can’t America Be Sweden?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A607
+msgid ""
+"Economists disagree about what would happen to global economic innovation if "
+"the United States adopted the social welfare policies of Scandinavian "
+"countries."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A610
+msgid "More From Thomas B. Edsall »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A610
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:610"
+msgid "June 5, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A612
+msgid "Is This a Government Which I See Before Me?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A613
+msgid ""
+"Brooks and Collins on the prospects for immigration reform, Obama nominees "
+"and environmental action."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A615
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:615"
+msgid "May 29, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A617
+msgid "Why Summer Isn’t That Much Fun"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A618
+msgid ""
+"Brooks and Collins talk about why this isn’t their favorite season, "
+"politically speaking. Or really in any other way."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A619
+msgid "More From The Conversation »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A619
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:619"
+msgid "June 5, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A621
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:621"
+msgid "It’s Not Just Nice to Share, It’s the Future"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A622
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:622"
+msgid ""
+"With collaborative consumption — the growing new economy based on access "
+"instead of ownership —you don’t have to buy a bike, car, prom dress, DVD, or "
+"chainsaw. You rent it or swap for it."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A626
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:626"
+msgid "May 29, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A628
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:628"
+msgid "Lobbying for the Greater Good"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A629
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:629"
+msgid ""
+"Most citizens don’t believe they can influence public opinion or policy. But "
+"groups like the Citizens Climate Lobby and Results are showing that they "
+"can."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A632
+msgid "More From Fixes »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A632
+msgid "June 4, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A634
+msgid "Welfare for the Wealthy"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A635
+msgid "The Farm Bill is impenetrable, important and worthy of our outrage."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A637
+msgid "May 28, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A639
+msgid "Can You Eat Too Little Salt?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A640
+msgid ""
+"Of course you need sodium, but insufficient consumption is hardly a public "
+"health threat."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A641
+msgid "More From Mark Bittman »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A641
+msgid "June 2, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A643
+msgid "A Simple Way to Reduce Suicides"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A644
+msgid ""
+"Changing the packaging of Tylenol can save thousands of lives each year."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A646
+msgid "May 6, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A648
+msgid "How Colonoscopies Are Like Home Renovations"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A649
+msgid ""
+"People don’t evaluate the pain of an experience by summing up the overall "
+"total. Instead, they remember the pain at the very end — and whether it got "
+"better or worse."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A652
+msgid "More From Ezekiel J. Emanuel »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A652
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:652"
+msgid "June 1, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A654
+msgid "Whither the Hatchet Job?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A655
+msgid "In Britain, blasting someone’s reputation is recognized blood sport."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A657
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:657"
+msgid "May 25, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A659
+msgid "Gesture Writing"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A660
+msgid "How standing naked in front of other artists changed me as a writer."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A661
+msgid "More From Draft »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A661
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:661"
+msgid "June 1, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A663
+msgid "House of Death"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A664
+msgid ""
+"In all of my years of practicing medicine, I had never been inside an "
+"inpatient hospice."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A666
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:666"
+msgid "May 25, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A668
+msgid "Showdown at the Airport Body Scanner"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A669
+msgid ""
+"As long as there’s the slightest chance of getting cancer from airport body "
+"scanners, I’m not walking through them."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A670
+msgid "More From Anxiety »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A670
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:670"
+msgid "June 1, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A672
+msgid "Schools Are Not Cool"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A673
+msgid ""
+"Students in air-conditioned classrooms have an unfair advantage over "
+"roasting peers."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A675
+msgid "May 4, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A677
+msgid "Does Class Size Count?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A678
+msgid "Teacher quality affects learning. So do overcrowded classrooms."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A679
+msgid "More From Schooling »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A679
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:679"
+msgid "May 29, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A681
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:681"
+msgid "Gitmo’s Other Prisoner"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A682
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:682"
+msgid "President Obama has become imprisoned not at Guantanamo but by it."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A684
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:684"
+msgid "May 15, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A686
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:686"
+msgid "Driver’s Seat"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A687
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:687"
+msgid ""
+"The pendulum on the immigration debate has begun to swing away from "
+"hardliners like Joe Arpaio, sheriff of Maricopa County, Ariz., as more and "
+"more states allow their undocumented workers to obtain driver’s licenses."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A691
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:691"
+msgid "More From Linda Greenhouse »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A691
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:691"
+msgid "May 29, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A693
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:693"
+msgid "Gitmo’s Other Prisoner"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A694
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:694"
+msgid "President Obama has become imprisoned not at Guantanamo but by it."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A696
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:696"
+msgid "May 15, 2013"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.h5%3A698
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.h5:698"
+msgid "Driver’s Seat"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A699
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:699"
+msgid ""
+"The pendulum on the immigration debate has begun to swing away from "
+"hardliners like Joe Arpaio, sheriff of Maricopa County, Ariz., as more and "
+"more states allow their undocumented workers to obtain driver’s licenses."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.div.p%3A703
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.div.p:703"
+msgid "More From Linda Greenhouse »"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A710
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.MiddleRight != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.MiddleRight.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.MiddleRight == "
+"\"undefined\")) { if($(\"MiddleRight\")) { $(\"MiddleRight\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=MiddleRight\"><img src=\"http://www.nytimes.com/adx/bin/adx_remo"
+"te.html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdSh"
+"areData,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Mi"
+"ddleRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,B"
+"ottom7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,L"
+"eft1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,"
+"JMNow3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=Midd"
+"leRight&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.h4%3A722
+msgid "Opinionator Highlights"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A723
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.h5:723"
+msgid "Waving My Tweak Flag High"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h6%3A724
+msgid "By JEFFREY LEWIS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A725
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.p:725"
+msgid ""
+"Even for the likes of Dylan and Jagger, a tiny lyric change can often make a "
+"big difference."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A728
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.h5:728"
+msgid "It’s Not Just Nice to Share, It’s the Future"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h6%3A729
+msgid "By TINA ROSENBERG"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A730
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.p:730"
+msgid ""
+"With collaborative consumption — the growing new economy based on access "
+"instead of ownership —you don’t have to buy a bike, car, prom dress, DVD, or "
+"chainsaw. You rent it or swap for it."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A735
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.h5:735"
+msgid "Does Great Literature Make Us Better?"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h6%3A736
+msgid "By GREGORY CURRIE"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A737
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.p:737"
+msgid ""
+"The view that literary fiction educates and civilizes its readers is "
+"widespread, and unproven."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A740
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.h5:740"
+msgid "Untamed Melody"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h6%3A741
+msgid "By ANDREW BIRD"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A742
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.p:742"
+msgid ""
+"With words and homemade audio, the songwriter documents the birth of a few "
+"melodies and, hopefully, a song."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A745
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.h5:745"
+msgid "Lobbying for the Greater Good"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h6%3A746
+msgid "By DAVID BORNSTEIN"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A747
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.p:747"
+msgid ""
+"Most citizens don’t believe they can influence public opinion or policy. But "
+"groups like the Citizens Climate Lobby and Results are showing that they "
+"can."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.h4%3A751
+msgid "Previous Series"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A753
+msgid "Townies"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A754
+msgid "A series about life in New York, and occasionally other cities."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A758
+msgid "Me, Myself and Math"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A759
+msgid "A six-part series that looks at us through the lens of math."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A763
+msgid "Line by Line"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.p%3A764
+msgid ""
+"A series on the basics of drawing, presented by the artist and author James "
+"McMullan, beginning with line, perspective, proportion and structure."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.h4%3A769
+msgid "Subscribe"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A773
+msgid "Opinionator RSS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A778
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.ul.li:778"
+msgid "The Stone RSS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div%3A782
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.Box1 != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.Box1.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.Box1 == "
+"\"undefined\")) { if($(\"Box1\")) { $(\"Box1\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=Box1\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote.html"
+"?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShareData"
+",PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,MiddleRig"
+"ht,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bottom7,"
+"Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Left1B,F"
+"rame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JMNow3,"
+"JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=Box1&query="
+"qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div%3A793
+msgid ""
+"<script type=\"text/javascript\"> // <![CDATA[ if ((typeof NYTD.Blogs.Ads != "
+"\"undefined\") && (typeof NYTD.Blogs.Ads.SponLink != "
+"\"undefined\")){document.write(NYTD.Blogs.Ads.SponLink.creative);} // ]]> "
+"</script><script type=\"text/javascript\"> // <![CDATA[ if ((typeof "
+"NYTD.Blogs.Ads == \"undefined\") || (typeof NYTD.Blogs.Ads.SponLink == "
+"\"undefined\")) { if($(\"SponLink\")) { $(\"SponLink\").hide(); } } // ]]> "
+"</script><noscript><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?ty"
+"pe=cookie&pos=SponLink\"><img src=\"http://www.nytimes.com/adx/bin/adx_remote."
+"html?type=noscript&page=blog.nytimes.com/opinionator/post&posall=XXL,AdShare"
+"Data,PushDown,FixedPanel,TopAd,Bar1,Position1,Position1B,Top5,SponLink,Middl"
+"eRight,Box1,Box3,Box3A,Bottom3,Right5A,Right6A,Right7A,Right8A,Middle1C,Bott"
+"om7,Bottom8,Bottom9,Header1,Header2,Header3,Inv1,Inv2,CcolumnSS,Middle4,Left"
+"1B,Frame6A,Left2,Left3,Left4,Left5,Left6,Left7,Left8,Left9,JMNow1,JMNow2,JMN"
+"ow3,JMNow4,JMNow5,JMNow6,Feature1,Spon3,ADX_CLIENTSIDE,SponLink2&pos=SponLin"
+"k&query=qstring&keywords=?\"></a></noscript>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "© 2013 The New York Times Company"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Site Map"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Privacy"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Your Ad Choices"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Advertise"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Terms of Sale"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Terms of Service"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Work With Us"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.footer.div.nav.ul.li:805"
+msgid "RSS"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Help"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Contact Us"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.footer.div.nav.ul.li%3A805
+msgid "Site Feedback"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.noscript.div%3A816
+msgid "DCSIMG"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A898
+msgid "Log in to NYTimes.com"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div:898"
+msgid "Close"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid "E-Mail/Member ID:"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid ""
+"<label for=\"password\">Password:</label><span class=\"labelDescription\"><a "
+"href=\"http://www.nytimes.com/forgot\" tabindex=\"4\">Forgot your "
+"password?</a></span>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div%3A898
+msgid ""
+"Don't have an NYTimes.com account? <a href=\"javascript:;\">Register now for "
+"free.</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid ""
+"<span id=\"loginSubmitLoader\" class=\"submitLoader hidden\"><img "
+"src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/loading-grey-lines-"
+"circle-18.gif\"></span><button type=\"button\" id=\"modalLoginSubmit\" "
+"class=\"loginButton applicationButton\" tabindex=\"3\">Log In</button>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div.div%3A898
+msgid "Remember me"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.h5%3A898
+msgid "Register at NYTimes.com"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div:898"
+msgid "Close"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid "E-Mail:"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid "Password:"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div.div%3A898
+msgid "Retype Password:"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div%3A898
+msgid ""
+"Receive occasional updates and special offers for The New York Times’s "
+"products and services."
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div%3A898
+msgid "Already have an NYTimes.com account? <a href=\"javascript:;\">Log In.</a>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.form.div.div%3A898
+msgid ""
+"<span id=\"submitRegiLoader\" class=\"submitLoader hidden\"><img "
+"src=\"Hacktivists%20as%20Gadflies%20-%20NYTimes.com_files/loading-grey-lines-"
+"circle-18.gif\"></span><button type=\"button\" id=\"regiModalSubmitButton\" "
+"class=\"applicationButton\">Create My Account</button>"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.h5%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.h5:898"
+msgid "Close"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.h5%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.h5:898"
+msgid "Share"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Facebook"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.ul.li:898"
+msgid "Twitter"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Google+"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Tumblr"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Linkedin"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Reddit"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div.div.ul.li:898"
+msgid "E-mail"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li%3A898
+msgid "Permalink"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A898
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div:898"
+msgid "Close"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A898
+msgid "Saved"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A898
+msgid ""
+"Items that you save may be read at any time on your computer, iPad, iPhone "
+"or Android devices. Access your saved items by selecting <a "
+"href=\"http://www.nytimes.com/saved\">Saved Items</a> from the menu under your "
+"username at the top right of any page on NYTimes.com"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div%3A900
+msgctxt "Hacktivists as Gadflies - NYTimes.com.html+html.body.div.div.div.div.div.div:900"
+msgid "Close"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A900
+msgid "Log In to Save This Item"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A900
+msgid ""
+"Items that you save may be read at any time on your computer, iPad, iPhone "
+"or Android devices"
+msgstr ""
+
+#: Hacktivists+as+Gadflies+-+NYTimes.com.html%2Bhtml.body.div.div.div.div.div.div.div%3A900
+msgid ""
+"Create An Account</a><a class=\"modalButton login\" href=\"https://myaccount.ny"
+"times.com/auth/login?URI=http://opinionator.blogs.nytimes.com/2013/04/13"
+"/hacktivists-as-gadflies/\">Log In"
+msgstr ""
