@@ -1,0 +1,45 @@
+/*
+Theme Name: NYT Universal
+Theme URI: http://www.nytimes.com/blogs
+Version: 3.1
+Author: NYTimes Blog Team
+Author URI: http://open.blogs.nytimes.com
+
+$Id: style.css 122332 2013-03-07 16:56:03Z surya.sanagavarapu $
+/css/blogs/3.1/screen/themes/universal/style.css
+(c)2006 - 2011 The New York Times Company
+*/
+
+@import url(/css/0.1/screen/common/global.css);
+@import url(/css/0.1/screen/common/shell.css);
+@import url(/css/0.1/screen/common/masthead.css);
+@import url(/css/0.1/screen/common/layout.css?v=02102013);
+@import url(/css/0.1/screen/common/modules.css);
+@import url(/css/0.1/screen/common/modules/rss.css);
+@import url(/css/0.1/screen/common/modules/sharetools.css);
+@import url(/css/0.1/screen/common/util/tooltip.css);
+@import url(/css/common/screen/navigation.css);
+@import url(/css/blogs/3.1/screen/themes/universal/entry.css?v=10-25-2012);
+@import url(/css/blogs/3.1/screen/themes/universal/layout.css?v=07-15-2012);
+@import url(/css/0.1/screen/common/forms.css); /*new comments*/
+@import url(/css/blogs/3.1/screen/community/comments.css);/*legacy comments*/
+@import url(/css/0.1/screen/common/modules/dialogbox.css); /*new comments*/
+@import url(/css/0.1/screen/community/comments/2.0/commentsModule.css); /*new comments*/
+@import url(/css/blogs/3.1/screen/themes/universal/comments.css); /*legacy comments & new comment overwrites*/
+@import url(/css/blogs/3.1/screen/themes/universal/archives.css);
+@import url(/css/blogs/3.1/screen/modules/common.css);
+@import url(/css/0.1/screen/common/modules/sharetools/common.css);
+@import url(/css/blogs/3.1/screen/modules/sharetools.css?v=06-15-2012);
+@import url(/css/blogs/3.2/screen/modules/embeddedslideshow.css);
+@import url(/css/blogs/3.2/screen/modules/liveBloggingModule.css);
+
+/* live blogging updates */
+
+.post .updated-marker .time {
+  width: auto;
+}
+
+.post .updated-entry,
+.updated-entry .videoContainer {
+  margin-left: 0;
+}

@@ -1,0 +1,1156 @@
+/*
+Theme Name: opinionator
+Theme URI: http://opinionator.blogs.nytimes.com/
+Version: 3.1
+Author: NYTimes Blog Team
+Author URI: http://open.blogs.nytimes.com
+
+$Id: style.css 119187 2013-01-13 02:47:25Z christopher.sanders $
+/css/blogs/3.1/screen/themes/opinionator/style.css
+(c)2006 - 2011 The New York Times Company
+*/
+
+@import url(/css/blogs/3.1/screen/themes/opinion/style.css);
+@import url(/css/0.1/screen/common/modules/sharetools/common.css);
+
+/* -- [ layout ] --------------------------------------------*/
+
+.blog {
+  background: #fff url(/images/blogs_v3/opinionator/shell/sidebar_bg.gif) repeat-y 625px 0;
+  border: none;
+  margin: 0;
+  width: 972px;
+}
+
+.blogHome .blog {
+  margin-top: 0;
+}
+
+/* columns */
+#aCol,
+#cCol {
+  border: none;
+}
+
+#aCol {
+  width: 613px;
+}
+
+#cCol {
+  margin-left: 22px;
+  padding-left: 0;
+  width: 316px;
+}
+
+/* modules */
+.socialMediaModule {
+  display: none;
+}
+
+.blogHome .socialMediaModule + .module {
+  border-top: none;
+  padding-top: 0;
+}
+
+.box {
+  margin: 0 0 7px 0;
+}
+
+/* blog header */
+#header,
+.blogHome #header {
+  margin: 0;
+}
+
+#header {
+  height: 84px;
+  text-align: left;
+}
+
+#header img {
+  margin: 16px 0 0 13px;
+}
+
+.blogHome #header {
+  height: 127px;
+  text-align: center;
+}
+
+.blogHome #header img {
+  margin: 39px 0 0 0;
+}
+
+#header,
+#cCol #blog-search {
+  background: #fff url(/images/blogs_v3/opinionator/shell/rule_2px_000.gif) repeat-x bottom right;
+  border-bottom: 17px solid #fff;
+}
+
+/* search form */
+#cCol #blog-search {
+  height: 62px;
+  margin: 0 0 0 -22px;
+  padding: 22px 0 0 12px;
+  position: relative;
+  width: 347px;
+  z-index: 300;
+}
+
+.blogHome #cCol #blog-search {
+  height: 68px;
+  padding-top: 59px;
+}
+
+#blog-search h4 {
+  display: block;
+  font-size: 1.1em; /* 11px */
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+#blog-search #s {
+  margin: 3px 0 0 0;
+  width: 282px;
+}
+
+/* image sizes */
+.w45 { width: 45px; }
+.w427 { margin-left: 165px; width: 427px; }
+.w300 { margin-left: 227px; width: 300px; }
+.w350 { margin-left: 204px; }
+.w400 { margin-left: 193px; }
+.w480 { margin-left: 113px; }
+.w500 { margin-left: 93px; }
+.w533 { margin-left: 60px; }
+.w593 { width: 593px; }
+.w45,
+.w427,
+.w593 {
+  overflow: hidden;
+}
+
+.w427,
+.w593 {
+  margin-bottom: 1em;
+}
+
+.full-width {
+  float: right;
+  margin-left: 0;
+}
+
+/* search results */
+.blogSearch #content .entry .w75 {
+  margin-top: 18px;
+}
+
+.blogSearch #content .entry-meta {
+  margin-left: 0;
+}
+
+.blogSearch #content .entry-meta .entry-tags {
+  font-size: 1em; /* 10px */
+  padding: 0 10px 7px 0;
+  text-transform: uppercase;
+}
+
+/* blog navigation */
+#aCol .nav,
+#aCol .bottomNav {
+  margin: 0;
+}
+
+#aCol .bottomNav {
+  border-bottom: none;
+  padding: 19px 0 12px 0;
+}
+
+#aCol .topNav {
+  border-top: none;
+}
+
+.blogSearch #aCol .topNav {
+  border-top: 1px solid #000;
+}
+
+.nav li .next,
+.nav li .previous {
+  color: #000;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.nav li .next {
+  padding: 0 25px 0 0;
+}
+
+.nav li .previous {
+  padding: 0 0 0 25px;
+}
+
+.nav .byline {
+  display: block;
+}
+
+#aCol .nav li .next,
+#aCol .nav li .previous {
+  line-height: 1.4em;
+}
+
+#cCol .nav {
+  padding-top: 10px;
+}
+
+#cCol .nav li .next,
+#cCol .nav li .previous {
+  margin-top: -2px;
+}
+
+#cCol .nav .byline,
+#cCol .nav li .next,
+#cCol .nav li .previous {
+  font-size: 0.909em; /* 10px */
+}
+
+#cCol .nav .element1 a,
+#cCol .nav .element1 .byline {
+  padding-right: 0;
+}
+
+#cCol .nav .element2 a,
+#cCol .nav .element2 .byline {
+  padding-left: 0;
+}
+
+/* post nav & related posts module */
+.blogPost #content .nav {
+  font-size: 1em; /* reset font size */
+  margin-bottom: 8px;
+  padding: 12px 0 0 0;
+}
+
+.blogPost #content .nav .subColumn-3 {
+  background: #fff url(/images/blogs_v3/opinionator/nav_vertical_rule.gif) repeat-y 152px 0;
+}
+
+.blogPost #content .nav .subColumn-3 .element1,
+.blogPost #content .nav .subColumn-3 .column {
+  margin-right: 25px;
+}
+
+.blogPost #content .nav .subColumn-3 .column {
+  padding-top: 9px;
+  width: 262px;
+}
+
+.blogPost #content .nav .subColumn-3 .element1,
+.blogPost #content .nav .subColumn-3 .element2 {
+  padding: 10px 0 7px 0;
+  width: 140px;
+}
+
+.blogPost #content .nav .subColumn-3 .element1 a,
+.blogPost #content .nav .subColumn-3 .element2 a {
+  display: block;
+  font-size: 1.2em; /* 12px */
+  font-weight: bold;
+}
+
+.blogPost #content .nav .subColumn-3 h4 {
+  margin: 0 0 8px 0;
+}
+
+.blogPost #content .nav .subColumn-3 .element1 .byline,
+.blogPost #content .nav .subColumn-3 .element1 .kicker {
+  margin: 1px 0 -1px 25px;
+}
+
+.blogPost #content .nav .subColumn-3 .element2 .byline,
+.blogPost #content .nav .subColumn-3 .element2 .kicker {
+  margin: 1px 25px -1px 0;
+}
+
+.blogPost #content .nav .subColumn-3 .relatedPosts {
+  background: none;
+}
+
+.blogPost #content .nav .subColumn-3 .relatedPosts li {
+  margin-bottom: 8px;
+  width: auto;
+}
+
+.blogPost #content .nav .subColumn-3 .relatedPosts li h6 a {
+  font-weight: normal;
+}
+
+/* results label */
+.resultsLabel,
+.blogCategories .resultsLabel,
+.resultsLabel .entry,
+.blogCategories .resultsLabel .entry {
+  border-top: none;
+}
+
+.blog .resultsLabel {
+  left: 0;
+  margin: 0;
+  padding: 0 0 15px 0;
+  width: auto;
+  background: transparent;
+  font-size: 1.3em;
+  line-height: 1.4em;
+}
+
+.blogDate .resultsLabel {
+  padding: 17px 0 16px 0;
+}
+
+.hfeed .resultsLabel .entry {
+  padding: 0;
+}
+
+.blogCategories .resultsLabel .thumb {
+  float: left;
+  width: 45px;
+  height: 45px;
+  margin: 0 12px 0 0;
+}
+
+.resultsLabel p.summary {
+  line-height: 1.4em;
+}
+
+.blog .resultsLabel p.meta,
+.blog .resultsLabel p.summary,
+.blogCategories .blog .resultsLabel,
+.blog .resultsLabel h2,
+.blogCategories .blog .resultsLabel h2 {
+  font-family: georgia, "times new roman", times, serif;
+  font-style: italic;
+  color: #333;
+}
+
+.blog .resultsLabel h2,
+.blogCategories .blog .resultsLabel h2, 
+.blog .resultsLabel p.meta,
+.blogCategories .blog .resultsLabel p.meta {
+  font-size: 1.3846em; /* 18px */
+}
+
+.blogCategories .blog .resultsLabel h2 {
+	line-height: 1.1em;
+}
+
+.blogCategories .resultsLabel h2 {
+  font-weight: normal;
+}
+
+.resultsLabel .element1 p.meta {
+  font-weight: normal;
+  padding-right: 2px;
+}
+
+.resultsLabel .element1 p,
+.resultsLabel .element1 h2 {
+  display: inline;
+}
+
+.resultsLabel .element1,
+.resultsLabel .element2 {
+  width: auto;
+}
+
+.blogTags .resultsLabel .element2 p.refer {
+  margin-top: 8px;
+}
+
+.blogDate .resultsLabel .element2 {
+  margin-top: 3px;
+}
+
+.blogSearch .resultsLabel .element2 {
+  display: none;
+}
+
+/* rules and dividers */
+.entry-content hr {
+  margin-left: 242px;
+  width: 275px;
+}
+
+/* misc */
+#blog-index {
+  display: none;
+}
+
+
+/* -- [ entry ] --------------------------------------------*/
+
+#content {
+  margin-left: 1px;
+  padding: 0 10px;
+}
+
+.hfeed {
+  margin-top: -5px;
+}
+
+.blogPaged .hfeed {
+  margin-top: -11px;
+}
+
+.hfeed .entry {
+  margin: 0;
+  padding: 9px 0 0 0;
+}
+
+.hfeed .hentry {
+  padding-top: 21px;
+}
+
+.blogHome #content .hentry:first-child {
+  border-top: none;
+  padding-top: 10px;
+}
+
+.blogCategories .hfeed .entry {
+  border-top: 1px solid #ccc;
+}
+
+.blogCategories .hfeed .latestEntry {
+  border-top: 1px solid #000;
+}
+
+.blogCategories .hfeed .module .entry {
+  border-top: none;
+}
+
+.blogPost .hfeed .hentry {
+  padding-top: 1px;
+}
+
+.entry-content {
+  margin-top: 12px;
+}
+
+.blogDate .entry-summary,
+.blogSearch .entry-summary {
+  padding-top: 5px;
+}
+
+.hfeed .latestEntry {
+  border-top-color: #000;
+  padding-top: 27px;
+}
+
+.blogTags .hfeed .latestEntry {
+  padding-top: 33px;
+}
+
+/* paragraphs, blockquotes, lists */
+.entry-content p,
+.entry-content ul,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6,
+.entry-content pre,
+.entry-content div.w35,
+.entry-content div.w45,
+.entry-content div.w50,
+.entry-content div.w75,
+.entry-content div.q,
+.entry-content div.a,
+.entry-content div.question,
+.entry-content div.answer,
+.entry-summary p,
+.blogError .entry-content form#searchform {
+  margin-left: 166px;
+}
+
+.entry-content ol {
+  margin-left: 186px;
+}
+
+.entry-content blockquote {
+  font-size: 1.3em; /* 13px */
+  margin: 0 34px 14px 200px;
+}
+
+.entry-content blockquote p {
+  color: #707070;
+  margin-bottom: 1.1em;
+}
+
+.entry-content ul *,
+.entry-content ol *,
+.entry-content ul li p,
+.entry-content ol li p,
+.entry-content ul li blockquote,
+.entry-content ol li blockquote,
+.entry-content blockquote p,
+.entry-content blockquote ul,
+.entry-content .inlineVideo p,
+.entry-content .module p,
+.entry-content .module h3,
+.entry-content .module h4,
+.entry-content .module h5,
+.entry-content .module h6,
+.entry-summary .module p,
+.blogDate .entry-summary p,
+.blogSearch .entry-summary p {
+  margin-left: 0;
+}
+
+.entry-content div.w45,
+.entry-content div.w50,
+.entry-content div.w75 {
+  display: inline;
+}
+
+.entry-content .module .entry,
+.entry-summary .module .entry {
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.entry-summary .module .entry {
+  border: none;
+  margin: 0;
+  padding: 5px 0;
+  width: auto;
+}
+
+.entry-summary .module p {
+  font-size: 1.2em;
+}
+
+/* headings */
+#cCol .module h4 {
+  margin: 14px 11px 3px 11px;
+}
+
+/* entry meta */
+.entry-meta {
+  margin: 10px 0 17px 167px;
+}
+
+.blogDate .entry-meta {
+  margin: 7px 0;
+}
+
+.entry-meta .entry-tools {
+  margin: 0;
+}
+
+.entry-tools li {
+  padding: 5px 20px 5px 0;
+}
+
+.entry-tools .share li {
+  padding: 3px 0 3px 20px;
+}
+
+.entry-tools .share .ad {
+  padding: 7px 0 0;
+}
+
+.blogPost .articleShareToolsBottom li {
+  border-left: none;
+}
+
+/* -- [ comments ] --------------------------------------------*/
+
+/* v3 */
+.commentContainer,
+.commentFieldContainer,
+.commentSubmitControl {
+	width: 88.5%;
+}
+
+.commentsListNested .commentContainer, 
+.commentsListNested .commentFieldContainer {
+	width: 89%;
+}
+
+.commentsModule .dialogBox {
+  top: -174px;
+}
+
+.commentsModule .dialogBoxLogin {
+  top: -184px;
+}
+
+/* v2 crnr */
+#readerReviews {
+  margin-bottom: 27px;
+}
+
+#readerReviews .postHeader {
+  color: #999;
+}
+
+.blog #submitComments form fieldset {
+  width: auto;
+}
+
+.blog div#readerComments,
+.blog div#submitComments {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.blog #submitComments #comment textarea {
+  font-size: 12px;
+  width: 581px;
+}
+
+.blog #submitComments #displayName input,
+.blog #submitComments #location input {
+  width: 275px;
+}
+
+.blog #submitComments h2,
+.blog div#readerComments .header h3.share {
+  color: #333;
+}
+
+.blog div#readerComments .header h3.share {
+  font-weight: bold;
+}
+
+/* v2 crnr overflow page */
+#login .tabs {
+  margin-left: 5px;
+}
+
+div#shell div#page div#navigation div#subNavigation {
+  display: none;
+}
+
+#adxLeaderboard {
+  border-bottom: none;
+}
+
+.crnr #aCol { 
+  padding-bottom: 20px; 
+}
+
+.crnr #aCol .hfeed .entry {
+  border-top: none;
+}
+
+.crnr #aCol #article {
+  padding: 0;
+}
+
+.crnr #aCol #article .kicker {
+  margin-bottom: 0;
+}
+
+.crnr #aCol #article h1 {
+  margin: 3px 0 5px;
+}
+
+.crnr #aCol #readerComments .userInfo .date,
+.crnr #aCol #readerComments .userInfo .time,
+.crnr #aCol #readerComments .userInfo .location,
+.crnr #aCol #readerComments .userInfo .userTitle,
+.crnr #aCol #readerComments .userInfo .displayName {
+  color: #999;
+}
+
+.blog  #aCol div#readerComments .userReview,
+.crnr #aCol #readerComments .userComment { 
+  width: 425px;
+  float: left;
+}
+
+.crnr #aCol #submitComments h2 {
+  font-size: 1.2em; /* 12px */
+}
+
+.crnr #cCol .first {
+  background: none;
+}
+
+.crnr #cCol .first #tools {
+  padding-top: 7px;
+}
+
+.crnr .remoteAds,
+.crnr .columnGroup {
+  margin: 0 -10px;
+}
+
+.crnr .hfeed .entry {
+  width: auto;
+}
+
+.crnr #cCol #MiddleRight {
+  margin: 0 -10px;
+}
+
+.blog.crnr #header {
+  margin: 0 !important;
+}
+
+/* v1 */
+.entry-comments,
+.entry-response {
+  margin: 0;
+}
+
+.entry-comments,
+.entry-response {
+  width: 593px;
+}
+
+#comments,
+#respond,
+#related-content {
+  padding: 10px 0;
+}
+
+.comment-content {
+  margin: 10px 0 15px 165px;
+  width: 428px;
+}
+
+#aCol #comments h4 {
+  margin: 0 10px 19px 10px;
+  padding-top: 12px;
+}
+
+
+/* -- [ archives ] --------------------------------------------*/
+
+.blogArchives #content .singleRuleDivider {
+  margin-left: 0;
+  width: auto;
+}
+
+.blogArchives #content .categoryColumns {
+  padding-top: 11px;
+}
+
+.blogArchives #content .tagColumns {
+  padding-top: 10px;
+}
+
+.blogArchives #content .subColumn-3 .column,
+.blogArchives #content .tagColumns .column .refer li {
+  width: 185px;
+}
+
+.blogArchives #content h4 {
+  font-size: 1.3em; /* 13px */
+}
+
+.blogArchives #content .sort select {
+  width: 137px;
+}
+
+
+/* -- [ modules ] --------------------------------------------*/
+
+/* general */
+.module .entry {
+  padding: 5px 11px 8px 11px;
+}
+
+.module p.summary {
+  margin-bottom: 6px;
+}
+
+.entry-content .module blockquote {
+  line-height: 1.28em; /* 20.4833px */
+  margin: 1px 0 9px 0;
+}
+
+/* category description */
+.inlineMoudle .categoryDescriptionModule,
+.entry-content .module .categoryDescriptionModule {
+  padding: 7px 10px 5px 10px;
+}
+
+.categoryDescriptionModule p.summary {
+  font-style: italic;
+}
+
+.categoryDescriptionModule .thumb,
+.categoryDescriptionModule .w45 {
+  margin-right: 7px;
+}
+
+#cCol .categoryDescriptionModule {
+  padding-top: 11px;
+}
+
+#cCol .categoryDescriptionModule .entry {
+  padding-bottom: 2px;
+}
+
+/* entry tags */
+.entry-content .module .entryTagsModule,
+.entry-summary .module .entryTagsModule {
+  padding: 9px 10px 7px 10px;
+}
+
+.entry-content .entryTagsModule h4,
+.entry-summary .entryTagsModule h4 {
+  color: #666;
+  font-size: 1.1em; /* 11px */
+  margin: 0 0 8px 0;
+  padding: 0;
+}
+
+.entryTagsModule p.tags {
+  font-size: 1em; /* 10px */
+  text-transform: uppercase;
+}
+
+.entryTagsModule p.tags a:hover {
+  text-decoration: underline;
+}
+
+.blogPost .entry-meta .entry-tags {
+  width: auto;
+}
+
+/* recent posts */
+#recent-posts h5,
+#recent-posts .summary {
+  width: 221px;
+}
+
+/* opinion highlights */
+.opinionHighlights blockquote {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.45em;
+  margin: 0 15px 2px 15px;
+  text-indent: -5px;
+}
+
+.opinionHighlights cite {
+  padding: 0 28px 0 15px;
+  text-align: left;
+}
+
+/* vertical tabset */
+.verticalTabSet {
+  padding-top: 7px;
+}
+
+#cCol .verticalTabSet h4 {
+  margin-bottom: 6px;
+}
+
+.verticalTabSet > .wrap {
+  background-position: 152px 0;
+}
+
+.verticalTabSet .tabs li.selected {
+  width: 148px;
+}
+
+.verticalTabSet .tabs li.selected .pointer {
+  background-image: url(/images/blogs_v3/opinionator/modules/verticalTabset/pointer.png);
+  width: 14px;
+}
+
+.verticalTabSet .tabContent {
+  background: none;
+  margin-right: 10px;
+  padding: 0;
+  width: 145px;
+}
+
+.verticalTabSet .tabs li {
+  background: #e0e0e0;
+  width: 135px;
+}
+
+.verticalTabSet .tabs li a {
+  width: 60px;
+}
+
+.verticalTabSet .tabs li .wrap {
+  padding-right: 0;
+}
+
+.verticalTabSet .tabs .moreContributors {
+  width: 145px;
+}
+
+.verticalTabSet .tabs .moreContributors > a  {
+  background-position: 126px 17px;
+  padding-right: 35px;
+}
+
+.verticalTabSet .tabs .author {
+  width: 64px;
+}
+
+.verticalTabSet .tabContent p.more {
+  line-height: 1.1818em; /* 13px */
+}
+
+/* twitter */
+#cCol .module .twitterModule {
+  margin: 0 0 15px 0;
+  padding-top: 5px;
+}
+
+.module .twitterModule .bugHeader h4 {
+  font-size: 1.1em; /* 11px */
+  font-weight: bold;
+}
+
+.module .twitterModule .tweet {
+  width: 190px;
+}
+
+.twitterModule div.inset {
+  padding-right: 0;
+}
+
+/* feeds: two columns */
+.feeds .subColumn-2 .column {
+  margin-right: 0;
+  width: 158px;
+}
+
+.feeds .subColumn-2 .column ul.rssCcolumn {
+  width: auto;
+}
+
+.feeds .subColumn-2 .lastColumn {
+  margin-top: 0;
+}
+
+/* ads */
+#side_searchAd {
+  margin-top: 9px !important;
+}
+
+#cCol .ad > div,
+#cCol .ad > img,
+#cCol .ad > object,
+#cCol .ad > iframe {
+  margin: 0 -10px;
+}
+
+/* inline modules */
+.inlineModule {
+  display: block;
+  clear: left;
+  float: left;
+  width: 151px;
+  padding: 5px 0 0 0;
+  border-top: 1px solid #000;
+  margin: 5px 12px 1em 0;
+}
+
+.blogCategories .inlineModule {
+  display: block;
+}
+
+.inlineModule h4 {
+  text-transform: uppercase;
+}
+
+.inlineModule .entry {
+  padding: 9px 0 7px;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.blogCategories .inlineModule .entry {
+  border-top: none;
+}
+
+.inlineModule .thumb {
+  clear: left;
+  float: left;
+  margin: 0 7px 0 0;
+}
+
+.inlineModule .entry p {
+  margin: 0 0 0.3em;
+}
+
+/* -- [ overwrites ] --------------------------------------------*/
+
+#navigation {
+  border-bottom: none;
+}
+
+#page {
+  background: none;
+}
+
+#footer {
+  border-top: none;
+}
+
+div#submitComments h2 a#suggestCorrectionsLink {
+  font-size: 11px;
+}
+
+ul.entry-tools li.timespeople_btn_recommend {
+  left: 398px;
+}
+
+.liveUpdateTools {
+  margin-left: 166px;
+}
+
+.articleShareToolsBottom {
+  margin-left: 0;
+}
+
+.blogPost .shareToolsThemeClassicHorizontal li,
+.blogPost .shareToolsThemeClassicHorizontal .firstItem {
+  padding: 0 8px;
+}
+
+.blogPost .shareToolsThemeClassicHorizontal .firstItem {
+  padding-left: 0;
+}
+
+.blogPost .shareToolsThemeClassicHorizontal .lastItem {
+  padding-right: 0;
+}
+
+.shareToolsThemeClassic .noLabel a,
+.shareToolsThemeClassic .noLabel span {
+  min-height: 12px;
+}
+
+/* -- [ Wide/OPA ad ] ----------------------------------------------*/
+
+.wideAd #page {
+  width: 972px;
+}
+
+.wideAd .blog {
+  background: transparent url(/images/blogs_v3/opinionator/sidebar_bg468.gif) repeat-y 504px 0;
+}
+
+.wideAd #aCol {
+  width: 482px;
+}
+
+.wideAd #cCol {
+  width: 458px;
+  margin: 0 0 0 22px;
+  padding: 0 5px 30px;
+}
+
+.wideAd .blog .box {
+  padding: 5px 5px 0;
+}
+
+.wideAd #header {
+  margin-top: 0;
+}
+
+.wideAd #header a img {
+  width: 289px;
+  height: 47px;
+}
+
+.wideAd .inlineModule {
+  float: right;
+  width: 190px;
+  margin: 5px 0 1em 12px;
+}
+
+.wideAd .entry-content p, 
+.wideAd .entry-content ul, 
+.wideAd .entry-content h3, 
+.wideAd .entry-content h4, 
+.wideAd .entry-content h5, 
+.wideAd .entry-content h6, 
+.wideAd .entry-content pre, 
+.wideAd .entry-content .w35, 
+.wideAd .entry-content .w45, 
+.wideAd .entry-content .w50, 
+.wideAd .entry-content .w75,
+.wideAd .entry-content .q, 
+.wideAd .entry-content .a, 
+.wideAd .entry-content .question, 
+.wideAd .entry-content .answer, 
+.wideAd .entry-summary p {
+  margin-left: 0;
+}
+
+.wideAd .w427,
+.wideAd .w427 img {
+  margin: 0 auto 1em;
+}
+
+.wideAd .w427 .videoplayerContainer,
+.wideAd .w427 .videoplayerContainer object {
+  width: 427px;
+  height: 240px;
+}
+
+.wideAd .w480 img,
+.wideAd .w500 img,
+.wideAd .w533 img,
+.wideAd .w592 img,
+.wideAd .w593 img,
+.wideAd .full-width img,
+.wideAd .entry-content iframe {
+  width: 461px;
+  height: auto;
+  -ms-interpolation-mode: bi-cubic;
+}
+
+.wideAd .embeddedSlideshow .stepperButton img {
+  width: 20px;
+}
+
+.wideAd .entry-content hr {
+  margin-left: auto;
+}
+
+.wideAd .entry-meta {
+  margin: 10px 0 0 0px;
+}
+
+.wideAd #content .nav .subColumn-3 {
+  background: url(/images/layout/vertical_rule.gif) 50% 0 repeat-y;
+}
+
+.wideAd #content .nav .subColumn-3 .element1, 
+.wideAd #content .nav .subColumn-3 .element2 {
+  width: 205px;
+}
+
+.wideAd #content .nav .column {
+  display: none;
+}
+
+.wideAd #cCol #blog-search {
+  width: 468px;
+  padding: 22px 0 0 22px;
+  margin: 0 0 0 -27px;
+}
+
+#blog-search h4,
+.wideAd #blog-search form {
+  float: right;
+  width: 337px;
+}
+
+.wideAd .verticalTabSet .wrap {
+  width: 458px;
+}
+
+.wideAd .verticalTabSet .tabContent {
+  width: 285px;
+}
+
