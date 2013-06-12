@@ -18,4 +18,4 @@ po2html -i Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.po -o Peter
 
 html2po -i Hacktivists\ as\ Gadflies\ -\ NYTimes.com.html -o Hacktivists\ as\ Gadflies\ -\ NYTimes.com_es.po
 
-po2html -i Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.po -o Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia_es.html -t Peter\ Ludlow\ -\ Wikipedia\,\ the\ free\ encyclopedia.html
+po2html -i Hacktivists\ as\ Gadflies\ -\ NYTimes.com_es.po -o Hacktivists\ as\ Gadflies\ -\ NYTimes.com_es.html -t Hacktivists\ as\ Gadflies\ -\ NYTimes.com.html
