@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-20 18:42-0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[0]
+msgid "What Is a ‘Hacktivist’?"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[1]
+msgid "By Peter Ludlow"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[3]
+msgid ""
+"source: http://opinionator.blogs.nytimes.com/2013/01/13/what-"
+"is-a-hacktivist/"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[5]
+msgid ""
+"The untimely death of the young Internet activist Aaron Swartz, apparently "
+"by suicide, has prompted an outpouring of reaction in the digital world. "
+"Foremost among the debates being reheated — one which had already grown in "
+"the wake of larger and more daring data breaches in the past few years — is "
+"whether Swartz’s activities as a “hacktivist” were being unfairly defined as "
+"malicious or criminal. In particular, critics (as well as Swartz’s family "
+"in a formal statement) have focused on the federal government’s indictment "
+"of Swartz for downloading millions of documents from the scholarly database "
+"JSTOR, an action which JSTOR itself had declined to prosecute. "
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[7]
+msgid ""
+"I believe the debate itself is far broader than the specifics of this "
+"unhappy case, for if there was prosecutorial overreach it raises the "
+"question of whether we as a society created the enabling condition for this "
+"sort of overreach by letting the demonization of hacktivists go unanswered. "
+"Prosecutors do not work in a vacuum, after all; they are more apt to pursue "
+"cases where public discourse supports their actions. The debate thus raises "
+"an issue that, as philosopher of language, I have spent time considering: "
+"the impact of how words and terms are defined in the public sphere."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[9]
+msgid ""
+"“Lexical Warfare” is a phrase that I like to use for battles over how a term "
+"is to be understood. Our political discourse is full of such battles; it is "
+"pretty routine to find discussions of who gets to be called “Republican” "
+"(as opposed to RINO – Republican in Name Only), what “freedom” should mean, "
+"what legitimately gets to be called “rape” —and the list goes on."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]
+msgid "Leif Parsons"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]/svg:title[0]
+msgid "Leif Parsons"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]/svg:desc[0]
+msgid "Leif Parsons"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[21]
+msgid ""
+"Lexical warfare is important because it can be a device to marginalize "
+"individuals within their self-identified political affiliation (for example, "
+"branding RINO’s defines them as something other than true Republicans), or "
+"it can beguile us into ignoring true threats to freedom (focusing on threats "
+"from government while being blind to threats from corporations, religion "
+"and custom), and in cases in which the word in question is “rape,” the "
+"definition can have far reaching consequences for the rights of women and "
+"social policy.Lexical warfare is not exclusively concerned with changing the "
+"definitions of words and terms — it can also work to attach either a "
+"negative or positive affect to a term. Ronald Reagan and other conservatives "
+"successfully loaded the word “liberal” with negative connotations, while "
+"enhancing the positive aura of terms like “patriot” (few today would reject "
+"the label “patriotic,” but rather argue for why they are entitled to it)."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[23]
+msgid ""
+"Over the past few years we’ve watched a lexical warfare battle slowly unfold "
+"in the treatment of the term “hacktivism.” There has been an effort to "
+"redefine what the word means and what kinds of activities it describes; at "
+"the same time there has been an effort to tarnish the hacktivist label so "
+"that anyone who chooses to label themselves as such does so at their peril."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[24]
+msgid ""
+"In the simplest and broadest sense, a hacktivist is someone who uses "
+"technology hacking to effect social change. The conflict now is between "
+"those who want to change the meaning of the word to denote immoral, sinister "
+"activities and those who want to defend the broader, more inclusive "
+"understanding of hacktivist. Let’s start with those who are trying to change "
+"the meaning so that it denotes sinister activities."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[25]
+msgid ""
+"Over the past year several newspapers and blogs have cited Verizon’s 2012 "
+"Data Breach Investigations Report, which claimed that 58 percent of all data "
+"leaked in 2011 was owing to the actions of “ideologically motivated "
+"hacktivists.” An example of the concern was an article in Infosecurity "
+"Magazine:"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[26]
+msgid ""
+"The year 2011 is renowned for being the year that hacktivists out-stole "
+"cybercriminals to take top honors according to the Verizon data breach "
+"report. Of the 174 million stolen records it tracked in 2011, 100 million "
+"were taken by hacktivist groups."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[27]
+msgid ""
+"Suddenly, things are looking black and white again. Regardless of political "
+"motivation or intent, if there are victims of the attacks they perpetrate, "
+"then hacktivism has crossed the line. Not OK."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[28]
+msgid ""
+"Meanwhile an article in ThreatPost proclaimed “Anonymous: Hacktivists Steal "
+"Most Data in 2011.”"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[29]
+msgid ""
+"The first thing to note is that both of these media sources are written by "
+"and for members of the information security business — it is in their "
+"interest to manufacture a threat, for the simple reason that threats mean "
+"business for these groups. But is it fair to say that the threat is being "
+"“manufactured”? What of the Verizon report that they cite?"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[30]
+msgid ""
+"The problem is that the headlines and articles, designed to tar hacktivists "
+"and make us fear them, did not reflect what the Verizon report actually "
+"said. According to page 19 of the report only 3 percent of the data breaches "
+"in the survey were by hacktivists — the bulk of them were by routine "
+"cybercriminals, disgruntled employees and nation states (83 percent were by "
+"organized criminals)."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[31]
+msgid ""
+"The “most data” claim, while accurate, gives a skewed picture. According to "
+"Chris Novak, the Managing Principal of Investigative Response on Verizon’s "
+"RISK Team, interviewed in ThreatPost, 2 percent of the 90 actions analyzed "
+"in the report accounted for 58 percent of the data released. The interview "
+"with Novak suggests that this data loss came from precisely two hacktivist "
+"actions — both by spin-offs of the well-known hacktivist group Anonymous — "
+"and that these large data dumps stemmed from the actions against the "
+"security firm HB Gary Federal, which had publicly announced their efforts to "
+"expose Anonymous, and a computer security firm called Stratfor). That means "
+"that in 2011 if you were worried about an intrusion into your system it was "
+"33 times more likely that the perpetrator would be a criminal, nation state "
+"or disgruntled employee than a hacktivist. If you weren’t picking fights "
+"with Anonymous the chances would have dropped to zero — at least according "
+"to the cases analyzed in the report."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[32]
+msgid ""
+"In effect, these infosecurity media outlets cited two actions by Anonymous "
+"spin-offs, implicated that actions like this were a principle project of "
+"hacktivism, and thereby implicated a larger, imminent threat of hacktivism. "
+"Meanwhile, the meaning of hacktivist was being narrowed from people who use "
+"technology in support of social causes to meaning individuals principally "
+"concerned with infiltrating and releasing the data of almost anyone."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[33]
+msgid ""
+"Now let’s turn to an attempt to maintain the broader understanding of "
+"hacktivism. Several months ago I attended a birthday party in Germany for "
+"Daniel Domscheit-Berg, who was turning 34. As it happened, Domscheit-Berg "
+"had also been the spokesperson for Wikileaks and, after Julian Assange, the "
+"group’s most visible person. He had left the organization in 2010, and now "
+"he had a new venture, OpenLeaks. The party was also meant to be a coming out "
+"party for OpenLeaks."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[34]
+msgid ""
+"The party was to be held in the new headquarters and training center for "
+"OpenLeaks — a large house in a small town about an hour outside of Berlin. I "
+"was half-expecting to find a bunker full of hackers probing Web sites with "
+"SQL injections and sifting through State Department cables, but what I found "
+"was something else altogether."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[36]/draw:frame[0]/draw:text-box[0]/text:p[0]
+msgid "Leif Parsons"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[46]
+msgid ""
+"When I arrived at the house the first thing I noticed was a large vegetable "
+"garden outside. The second thing I noticed was that a tree out front had "
+"been fitted out with a colorful knit wool sweater. This was the effort of "
+"Daniel’s wife Anke — “knit hacking,” she called it. And around the small "
+"town I saw evidence of her guerilla knit hacking. The steel poles of nearby "
+"street signs had also been fitted with woolen sweaters. Most impressively, "
+"though, a World War II tank, sitting outside a nearby former Nazi "
+"concentration camp for women had also been knit-hacked; the entire barrel of "
+"the tank’s gun had been fit with a tight colorful wool sweater and adorned "
+"with some woolen flowers for good measure. I interpreted these knit-hackings "
+"as counteractions to the attempts to define hacktivist as something "
+"sinister; they serve as ostensive definitions of what hacktivism is and what "
+"hacktivists do."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[48]
+msgid ""
+"Of course the birthday party had elements of hackerdom understood more "
+"narrowly. There were some members of the Chaos Computer Club (a legendary "
+"hacker group), and there was a healthy supply of Club Mate — the energy "
+"drink of choice of European hackers, but the main message being delivered "
+"was something else: a do-it-yourself aesthetic — planting your own garden, "
+"knitting your own sweaters, foraging for mushrooms and counting on a local "
+"friend to bag you some venison. What part of this lifestyle was the "
+"hacktivism part? Daniel and his friends would like to say that all of it is."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[49]
+msgid ""
+"The intention here was clear: an attempt to defend the traditional, less "
+"sinister understanding of hacktivism and perhaps broaden it a bit, adding "
+"some positive affect to boot; more specifically, that hacking is "
+"fundamentally about refusing to be intimidated or cowed into submission by "
+"any technology, about understanding the technology and acquiring the power "
+"to repurpose it to our individual needs, and for the good of the many. "
+"Moreover, they were saying that a true hacktivist doesn’t favor new "
+"technology over old — what is critical is that the technologies be in our "
+"hands rather than out of our control. This ideal, theoretically, should "
+"extend to beyond computer use, to technologies for food production, shelter "
+"and clothing, and of course, to all the means we use to communicate with one "
+"another. It would also, of course, extend to access to knowledge more "
+"generally — a value that was inherent in Aaron Swartz’s hacking of the JSTOR "
+"data base."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[50]
+msgid ""
+"Our responsibility in this particular episode of lexical warfare is to be "
+"critical and aware of the public uses of language, and to be alert to what "
+"is at stake — whether the claims made by the infosecurity industry or the "
+"government, or the gestures by the hacktivists, are genuine, misleading or "
+"correct. We are not passive observers in this dispute. The meaning of words "
+"is determined by those of us who use language, and it has consequences. "
+"Whether or not Aaron Swartz suffered because of the manipulation of the "
+"public discourse surrounding hacking, his case is a reminder that it is "
+"important that we be attuned to attempts to change the meanings of words in "
+"consequential ways. It is important because we are the ones who will decide "
+"who will win."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[52]
+msgid ""
+"Peter Ludlow is professor of philosophy at Northwestern University. His most "
+"recent book is “The Philosophy of Generative Linguistics.” "
+msgstr ""
