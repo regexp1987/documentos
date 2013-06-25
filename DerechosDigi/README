@@ -22,4 +22,5 @@ po2html -i Hacktivists\ as\ Gadflies\ -\ NYTimes.com_es.po -o Hacktivists\ as\ G
 
 - What is Hacktivist
 
-odf2xliff WhatIsAHacktivist.odt WhatIsAHacktivist_es.po
+odf2xliff WhatIsAHacktivist.odt WhatIsAHacktivist_es.xlf
+xliff2odf -t WhatIsAHacktivist.odt WhatIsAHacktivist_es.xlf WhatIsAHacktivist_es.odt 
